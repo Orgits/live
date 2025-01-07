@@ -34,11 +34,11 @@ const ServicesStyle1 = () => {
                                     </button>
                                     <button className="nav-link" id="nav-id-4" data-bs-toggle="tab" data-bs-target="#tab4" type="button" role="tab" aria-controls="tab4" aria-selected="false">
                                         <i className="flaticon-save-money"></i>
-                                        Corporate Legal & Regulatory Services
+                                        Corporate Legal & Regulatory Service
                                     </button>
                                     <button className="nav-link" id="nav-id-4" data-bs-toggle="tab" data-bs-target="#tab4" type="button" role="tab" aria-controls="tab4" aria-selected="false">
                                         <i className="flaticon-save-money"></i>
-                                        Corporate Legal & Regulatory Services
+                                        Corporate Legal & Regulatory Servicess
                                     </button>
                                 </div>
                             </div>
