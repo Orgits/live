@@ -7,31 +7,52 @@
         "tabData": [
             {
                 "id": 1,
-                "animationDelay": 0,
-                "icon": "flaticon-personal",
-                "title": "Audit & Assurance",
-                "text": "Gain confidence in your financial reporting with our expert audit services, ensuring compliance, transparency, and actionable insights for better decision-making."
+                "animationDelay": "",
+                "icon": "",
+                "title": "Audit and Assurance - Overview",
+                "text": "Gain confidence in your financial reporting with expert audit services."
             },
             {
                 "id": 2,
                 "animationDelay": "",
-                "icon": "flaticon-career",
-                "title": "Reports & Certification",
-                "text": "We provide precise reports and certifications for regulatory and statutory compliance, tailored to meet the unique needs of your business."
+                "icon": "",
+                "title": "Tax Audit",
+                "text": "Ensure compliance with tax regulations through thorough audits."
             },
             {
                 "id": 3,
                 "animationDelay": "",
-                "icon": "flaticon-group",
-                "title": "Internal Audit",
-                "text": "Strengthen your internal controls and improve operational efficiency with our thorough internal audit services."
+                "icon": "",
+                "title": "Statutory Audit",
+                "text": "Conduct statutory audits to meet regulatory requirements."
             },
             {
                 "id": 4,
                 "animationDelay": "",
-                "icon": "flaticon-solution-5",
-                "title": "Risk Assessment & Mitigation",
-                "text": "Identify, assess, and mitigate potential risks to safeguard your organization's assets and reputation."
+                "icon": "",
+                "title": "Internal Audit",
+                "text": "Enhance internal controls and operational efficiency."
+            },
+            {
+                "id": 5,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Stock Audit",
+                "text": "Maintain inventory accuracy and reduce losses through stock audits."
+            },
+            {
+                "id": 6,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Fixed Assets Audit",
+                "text": "Manage fixed assets effectively with comprehensive audits."
+            },
+            {
+                "id": 7,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Due Diligence",
+                "text": "Conduct due diligence to assess financial health and risks."
             }
         ]
     },
@@ -43,31 +64,24 @@
         "tabData": [
             {
                 "id": 1,
-                "animationDelay": "0",
-                "icon": "flaticon-business-trip",
-                "title": "Governance, Risk & Compliance (GRC) Advisory",
-                "text": "Develop robust frameworks to manage risks, ensure compliance, and enhance corporate governance standards."
+                "animationDelay": "",
+                "icon": "",
+                "title": "GST Litigation Services",
+                "text": "Resolve GST disputes with expert litigation services."
             },
             {
                 "id": 2,
                 "animationDelay": "",
-                "icon": "flaticon-online-store",
-                "title": "Advisory & Assistance",
-                "text": "Tailored business advisory solutions to address challenges in strategic planning, financial restructuring, and operational growth."
+                "icon": "",
+                "title": "Income Tax Litigation Services",
+                "text": "Expert representation in income tax litigation matters."
             },
             {
                 "id": 3,
                 "animationDelay": "",
-                "icon": "flaticon-funds",
-                "title": "FEMA Advisory",
-                "text": "Expert guidance on cross-border transactions, foreign investments, and compliance with FEMA regulations."
-            },
-            {
-                "id": 4,
-                "animationDelay": "",
-                "icon": "flaticon-career",
-                "title": "Corporate Strategy Development",
-                "text": "Craft strategic plans that align with your business goals and market dynamics, ensuring long-term success."
+                "icon": "",
+                "title": "Niti Aayog Registration",
+                "text": "Facilitate Niti Aayog registration for NGOs and non-profits."
             }
         ]
     },
@@ -79,31 +93,52 @@
         "tabData": [
             {
                 "id": 1,
-                "animationDelay": "0",
-                "icon": "flaticon-budget",
-                "title": "Outsourcing Support Service",
-                "text": "Delegate routine operations like accounting, payroll, and administrative tasks to our team, allowing you to focus on growth."
+                "animationDelay": "",
+                "icon": "",
+                "title": "International Taxation - Overview",
+                "text": "Comprehensive services in international taxation to help you navigate cross-border tax complexities and compliance."
             },
             {
                 "id": 2,
                 "animationDelay": "",
-                "icon": "flaticon-money-1",
-                "title": "Financial Management Support",
-                "text": "From budgeting to cash flow management, we help optimize your financial resources for maximum efficiency."
+                "icon": "",
+                "title": "NRI Taxation",
+                "text": "Expert guidance on taxation matters for Non-Resident Indians, ensuring compliance with Indian tax laws and regulations."
             },
             {
                 "id": 3,
                 "animationDelay": "",
-                "icon": "flaticon-funds",
-                "title": "HR & Payroll Management",
-                "text": "Simplify employee management with seamless payroll and HR solutions tailored to your organizational needs."
+                "icon": "",
+                "title": "Double Taxation Avoidance Agreement",
+                "text": "Assist in applying DTAA benefits to avoid double taxation and optimize your tax liability globally."
             },
             {
                 "id": 4,
                 "animationDelay": "",
-                "icon": "flaticon-world-globe",
-                "title": "Tax Compliance Support",
-                "text": "Ensure timely and accurate tax filings, reducing risks and penalties associated with non-compliance."
+                "icon": "",
+                "title": "Taxation of Expats",
+                "text": "Specialized services for expatriates to manage their tax obligations in India efficiently."
+            },
+            {
+                "id": 5,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Filing of Forms 15CA-15CB",
+                "text": "Assist in accurate and timely filing of Forms 15CA and 15CB for remittances, ensuring compliance with RBI and tax regulations."
+            },
+            {
+                "id": 6,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Residential Status for NRIs",
+                "text": "Determine residential status for tax purposes and provide expert advice on related compliance requirements."
+            },
+            {
+                "id": 7,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Tax Residency Certificate",
+                "text": "Assist in obtaining a Tax Residency Certificate (TRC) to claim benefits under tax treaties and ensure compliance with international tax laws."
             }
         ]
     },
@@ -115,31 +150,275 @@
         "tabData": [
             {
                 "id": 1,
-                "animationDelay": "0",
-                "icon": "flaticon-personal",
-                "title": "Corporate Law Advisory",
-                "text": "Stay updated and compliant with the latest corporate laws and governance practices to avoid legal complications."
+                "animationDelay": "",
+                "icon": "",
+                "title": "Company Registration",
+                "text": "Facilitate seamless company registration with compliance to legal and regulatory requirements."
             },
             {
                 "id": 2,
                 "animationDelay": "",
-                "icon": "flaticon-career",
-                "title": "Mergers & Acquisitions Support",
-                "text": "Navigate complex M&A transactions with confidence, from due diligence to regulatory approvals."
+                "icon": "",
+                "title": "Company Annual Compliances",
+                "text": "Ensure timely and accurate filing of annual compliance requirements for your company."
             },
             {
                 "id": 3,
                 "animationDelay": "",
-                "icon": "flaticon-group",
-                "title": "Company Formation & Structuring",
-                "text": "Set up and structure your company effectively, ensuring compliance with statutory and legal requirements."
+                "icon": "",
+                "title": "Certification and Attestation Services",
+                "text": "Get certifications and attestations for statutory compliance and legal documentation."
             },
             {
                 "id": 4,
                 "animationDelay": "",
-                "icon": "flaticon-solution-5",
-                "title": "Legal Documentation & Agreements",
-                "text": "Prepare and review contracts, agreements, and other legal documents to safeguard your business interests."
+                "icon": "",
+                "title": "LLP Annual Filings",
+                "text": "Ensure smooth annual filing and compliance for Limited Liability Partnerships (LLP)."
+            },
+            {
+                "id": 5,
+                "animationDelay": "",
+                "icon": "",
+                "title": "LLP Formations",
+                "text": "Facilitate the formation of LLPs with proper structuring and legal compliance."
+            },
+            {
+                "id": 6,
+                "animationDelay": "",
+                "icon": "",
+                "title": "FC-GPR and RBI Compliance",
+                "text": "Ensure compliance with RBI guidelines for FC-GPR and other foreign exchange transactions."
+            },
+            {
+                "id": 7,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Foreign Company Setup in India",
+                "text": "Assist in setting up foreign companies in India while adhering to local regulations."
+            },
+            {
+                "id": 8,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Company Strike Off and LLP Closure",
+                "text": "Simplify the process of closing companies or LLPs, ensuring compliance with statutory requirements."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "tabClass": "",
+        "tabId": "tab5",
+        "ariaLabelled": "nav-id-5",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Transfer Pricing - Overview",
+                "text": "Understand the principles of transfer pricing and ensure compliance with regulations."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "",
+                "title": "TP Audit & Compliance",
+                "text": "Conduct audits to ensure adherence to transfer pricing norms and regulations."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "",
+                "title": "TP Study Report",
+                "text": "Prepare detailed transfer pricing study reports to meet regulatory requirements."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "tabClass": "",
+        "tabId": "tab6",
+        "ariaLabelled": "nav-id-6",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": "",
+                "icon": "",
+                "title": "NRI Services - Overview",
+                "text": "Comprehensive NRI services to manage compliance and planning needs."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "tabClass": "",
+        "tabId": "tab7",
+        "ariaLabelled": "nav-id-7",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Accounting - Overview",
+                "text": "Gain insights into our comprehensive accounting and payroll management services."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Accounting and Book Keeping",
+                "text": "Streamline your accounting and bookkeeping processes for accuracy and compliance."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Payroll Management",
+                "text": "Simplify payroll processing while ensuring statutory compliance."
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "",
+                "title": "CMA Data Preparation",
+                "text": "Prepare Credit Monitoring Arrangement (CMA) data for effective loan processing."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "tabClass": "",
+        "tabId": "tab8",
+        "ariaLabelled": "nav-id-8",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Corporate Tax",
+                "text": "Comprehensive services for corporate tax planning and compliance."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Direct & Indirect Tax - Overview",
+                "text": "Manage both direct and indirect tax obligations with expert guidance."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Income Tax Return Filings",
+                "text": "Ensure timely and accurate filing of income tax returns."
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Faceless Assessment under Income Tax",
+                "text": "Simplify tax assessments through the faceless mechanism."
+            },
+            {
+                "id": 5,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Lower Deduction Certificate",
+                "text": "Obtain lower deduction certificates to optimize tax withholding."
+            },
+            {
+                "id": 6,
+                "animationDelay": "",
+                "icon": "",
+                "title": "80G & 12A Registration",
+                "text": "Assist NGOs in obtaining 80G and 12A registration for tax exemptions."
+            },
+            {
+                "id": 7,
+                "animationDelay": "",
+                "icon": "",
+                "title": "TDS and TCS Return Filings",
+                "text": "Ensure compliance with TDS and TCS return filing obligations."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "tabClass": "",
+        "tabId": "tab9",
+        "ariaLabelled": "nav-id-9",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Goods and Service Tax - Overview",
+                "text": "Comprehensive guidance on GST compliance and planning."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "",
+                "title": "GST Consultancy Services",
+                "text": "Expert consultancy for managing GST obligations efficiently."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "",
+                "title": "GST Audit",
+                "text": "Ensure compliance with GST audit requirements."
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "",
+                "title": "GST Compliance Services",
+                "text": "Manage GST compliance with our specialized services."
+            },
+            {
+                "id": 5,
+                "animationDelay": "",
+                "icon": "",
+                "title": "GST Refunds",
+                "text": "Assist in obtaining GST refunds promptly and accurately."
+            },
+            {
+                "id": 6,
+                "animationDelay": "",
+                "icon": "",
+                "title": "GST Returns",
+                "text": "Ensure timely filing of GST returns to avoid penalties."
+            },
+            {
+                "id": 7,
+                "animationDelay": "",
+                "icon": "",
+                "title": "GST Registration",
+                "text": "Facilitate GST registration to ensure compliance."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "tabClass": "",
+        "tabId": "tab10",
+        "ariaLabelled": "nav-id-10",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Trademark Registration",
+                "text": "Protect your intellectual property with trademark registration services."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "",
+                "title": "Copyright Services",
+                "text": "Secure copyright protection for your creative works."
             }
         ]
     }

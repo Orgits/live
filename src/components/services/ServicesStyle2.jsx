@@ -37,6 +37,78 @@ const ServicesStyle2 = () => {
                         )}  
                     </div>
                 </div>
+                <div className="container">
+                    <div className="row">
+                        {Services2Data.slice(6, 9).map(service =>
+                            <div className="col-xl-4 col-md-6 mb-30" key={service.id}>
+                                <SingleServices2 service={service} />
+                            </div>
+                        )}  
+                    </div>
+                </div>
+                <div className="container">
+                    <div className="row">
+                        {Services2Data.slice(9, 12).map(service =>
+                            <div className="col-xl-4 col-md-6 mb-30" key={service.id}>
+                                <SingleServices2 service={service} />
+                            </div>
+                        )}  
+                    </div>
+                </div>
+                <div className="container">
+                    <div className="row">
+                        {Services2Data.slice(12, 15).map(service =>
+                            <div className="col-xl-4 col-md-6 mb-30" key={service.id}>
+                                <SingleServices2 service={service} />
+                            </div>
+                        )}  
+                    </div>
+                </div>
+                <div className="container">
+                    <div className="row">
+                        {Services2Data.slice(15, 18).map(service =>
+                            <div className="col-xl-4 col-md-6 mb-30" key={service.id}>
+                                <SingleServices2 service={service} />
+                            </div>
+                        )}  
+                    </div>
+                </div>
+                <div className="container">
+                    <div className="row">
+                        {Services2Data.slice(18, 21).map(service =>
+                            <div className="col-xl-4 col-md-6 mb-30" key={service.id}>
+                                <SingleServices2 service={service} />
+                            </div>
+                        )}  
+                    </div>
+                </div>
+                <div className="container">
+                    <div className="row">
+                        {Services2Data.slice(21, 24).map(service =>
+                            <div className="col-xl-4 col-md-6 mb-30" key={service.id}>
+                                <SingleServices2 service={service} />
+                            </div>
+                        )}  
+                    </div>
+                </div>
+                <div className="container">
+                    <div className="row">
+                        {Services2Data.slice(24, 27).map(service =>
+                            <div className="col-xl-4 col-md-6 mb-30" key={service.id}>
+                                <SingleServices2 service={service} />
+                            </div>
+                        )}  
+                    </div>
+                </div>
+                <div className="container">
+                    <div className="row">
+                        {Services2Data.slice(27, 30).map(service =>
+                            <div className="col-xl-4 col-md-6 mb-30" key={service.id}>
+                                <SingleServices2 service={service} />
+                            </div>
+                        )}  
+                    </div>
+                </div>
             </div>
         </>
     );

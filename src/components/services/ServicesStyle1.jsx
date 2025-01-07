@@ -22,23 +22,43 @@ const ServicesStyle1 = () => {
                                 <div className="nav nav-tabs service-tab-navs" id="nav-tab" role="tablist">
                                 <button className="nav-link active" id="nav-id-1" data-bs-toggle="tab" data-bs-target="#tab1" type="button" role="tab" aria-controls="tab" aria-selected="true">
                                         <i className="flaticon-save-money"></i>
-                                        International Taxation
+                                        AUDIT AND ASSURANCE
                                     </button>
                                     <button className="nav-link" id="nav-id-2" data-bs-toggle="tab" data-bs-target="#tab2" type="button" role="tab" aria-controls="tab2" aria-selected="false">
                                         <i className="flaticon-megaphone"></i>
-                                        COMPANY AND LLP COMPLIANCES
+                                        LITIGATION SERVICES
                                     </button>
                                     <button className="nav-link" id="nav-id-3" data-bs-toggle="tab" data-bs-target="#tab3" type="button" role="tab" aria-controls="tab3" aria-selected="false">
                                         <i className="flaticon-save-money"></i>
+                                        INTERNATIONAL TAXATION
+                                    </button>
+                                    <button className="nav-link" id="nav-id-4" data-bs-toggle="tab" data-bs-target="#tab4" type="button" role="tab" aria-controls="tab4" aria-selected="false">
+                                        <i className="flaticon-save-money"></i>
+                                        COMPANY AND LLP COMPLIANCES
+                                    </button>
+                                    <button className="nav-link" id="nav-id-5" data-bs-toggle="tab" data-bs-target="#tab5" type="button" role="tab" aria-controls="tab5" aria-selected="false">
+                                        <i className="flaticon-save-money"></i>
+                                        TRANSFER PRICING
+                                    </button>
+                                    <button className="nav-link" id="nav-id-6" data-bs-toggle="tab" data-bs-target="#tab6" type="button" role="tab" aria-controls="tab6" aria-selected="false">
+                                        <i className="flaticon-save-money"></i>
+                                        NRI SERVICES
+                                    </button>
+                                    <button className="nav-link" id="nav-id-7" data-bs-toggle="tab" data-bs-target="#tab7" type="button" role="tab" aria-controls="tab7" aria-selected="false">
+                                        <i className="flaticon-save-money"></i>
+                                        ACCOUNTING AND PAYROLL MANAGEMENT
+                                    </button>
+                                    <button className="nav-link" id="nav-id-8" data-bs-toggle="tab" data-bs-target="#tab8" type="button" role="tab" aria-controls="tab8" aria-selected="false">
+                                        <i className="flaticon-save-money"></i>
                                         INCOME TAX COMPLIANCES
                                     </button>
-                                    <button className="nav-link" id="nav-id-4" data-bs-toggle="tab" data-bs-target="#tab4" type="button" role="tab" aria-controls="tab4" aria-selected="false">
+                                    <button className="nav-link" id="nav-id-9" data-bs-toggle="tab" data-bs-target="#tab9" type="button" role="tab" aria-controls="tab9" aria-selected="false">
                                         <i className="flaticon-save-money"></i>
-                                        Corporate Legal & Regulatory Service
+                                        GOODS AND SERVICE TAX
                                     </button>
-                                    <button className="nav-link" id="nav-id-4" data-bs-toggle="tab" data-bs-target="#tab4" type="button" role="tab" aria-controls="tab4" aria-selected="false">
+                                    <button className="nav-link" id="nav-id-10" data-bs-toggle="tab" data-bs-target="#tab10" type="button" role="tab" aria-controls="tab10" aria-selected="false">
                                         <i className="flaticon-save-money"></i>
-                                        Corporate Legal & Regulatory Servicess
+                                        TRADEMARK AND COPYRIGHT
                                     </button>
                                 </div>
                             </div>

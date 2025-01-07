@@ -8,7 +8,7 @@ const SingleServices1 = ({ data }) => {
         <>
             <div className="services-style-one">
                 <i className={icon}></i>
-                <h4><Link href={`/services-details/${id}`}>{title}</Link></h4>
+                <h4><Link href={`/services`}>{title}</Link></h4>
                 <p>{text}</p>
             </div>
         </>

@@ -11,7 +11,7 @@ const HeaderTopStyle1 = () => {
                             <ul className="item-flex">
                                 <li>
                                     <i className="fas fa-map-marker-alt"></i>
-                                     <a href="/contact-us">Branch Office</a>
+                                     <a href="/contact-us">Branch Offices in India</a>
                                 </li>
                                 <li>
                                     <a href="tel:+919999667121"><i className="fas fa-phone-alt"></i> +91 99996 67121</a>
