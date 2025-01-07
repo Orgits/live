@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "thumb": "2.png",
+        "thumbFull": "2-full.jpg",
+        "activeClass": "",
+        "title": "Audit & Assurance",
+        "icon": "flaticon-budget",
+        "text": "Ensure your business's financial integrity with our comprehensive Audit & Assurance services. We provide an in-depth analysis of your financial records, ensuring transparency, accuracy, and compliance with regulatory standards. Our approach goes beyond numbers, offering insights that help you strengthen your financial processes and decision-making.",
+        "btnText": "Read More"
+    },
+    {
+        "id": 2,
+        "thumb": "1.png",
+        "thumbFull": "3-full.jpg",
+        "activeClass": "",
+        "title": "Reports & Certification",
+        "icon": "flaticon-bar-chart",
+        "text": "Reliable and accurate financial reporting is the cornerstone of trust. Our Reports & Certification services provide stakeholders with confidence through clear and detailed financial statements. Whether it’s certifications for compliance or specialized reports for statutory purposes, we deliver precise documentation tailored to your needs.",
+        "btnText": "Read More"
+    },
+    {
+        "id": 3,
+        "thumb": "3.png",
+        "thumbFull": "4-full.jpg",
+        "activeClass": "",
+        "title": "Outsourcing Support Service",
+        "icon": "flaticon-credit-cards",
+        "text": "Focus on your core operations while we handle the rest. Our Outsourcing Support Services include end-to-end solutions for finance, accounting, payroll, and other administrative functions. With our efficient support, you can reduce overheads, improve accuracy, and ensure operational continuity.",
+        "btnText": "Read More"
+    },
+    {
+        "id": 4,
+        "thumb": "3.jpg",
+        "thumbFull": "3-full.jpg",
+        "activeClass": "",
+        "title": "Governance, Risk & Compliance Advisory",
+        "icon": "flaticon-bar-chart",
+        "text": "Stay ahead of regulatory challenges with our Governance, Risk, and Compliance (GRC) Advisory services. We help you establish robust governance frameworks, mitigate risks, and achieve full regulatory compliance, empowering your business to operate with confidence in an ever-evolving environment.",
+        "btnText": "Read More"
+    },
+    {
+        "id": 5,
+        "thumb": "3.jpg",
+        "thumbFull": "3-full.jpg",
+        "activeClass": "",
+        "title": "FEMA Advisory",
+        "icon": "flaticon-bar-chart",
+        "text": "Ensure compliance with India's Foreign Exchange Management Act (FEMA) with our specialized advisory services. We assist in matters related to cross-border transactions, foreign investments, and regulatory approvals, ensuring seamless operations in a global business environment.",
+        "btnText": "Read More"
+    },
+    {
+        "id": 6,
+        "thumb": "3.jpg",
+        "thumbFull": "3-full.jpg",
+        "activeClass": "",
+        "title": "Corporate Law",
+        "icon": "flaticon-bar-chart",
+        "text": "Stay compliant and minimize legal risks with our Corporate Law services. We provide expert guidance on corporate governance, mergers and acquisitions, company formation, and legal documentation, ensuring your business adheres to statutory requirements while achieving its strategic goals.",
+        "btnText": "Read More"
+    }
+]

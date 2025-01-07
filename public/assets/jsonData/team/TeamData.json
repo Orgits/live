@@ -1,0 +1,509 @@
+[
+    {
+        "id": 1,
+        "activeClass": "active",
+        "memberThumb": "1.jpg",
+        "designation": "Co-Founder & Managing Partner",
+        "name": "CA VINIT JAIN",
+        "email": "svjassociates2017@gmail.com",
+        "paragraph": "CA Vinit Jain is the co-founder and Managing Partner of the firm. He is a commerce graduate from University of Delhi, a fellow member of The Institute of Chartered Accountants of India (2011 batch), and holds a certification in ‘Business Responsibility & Sustainability Reporting’ (BRSR) from ICAI. Currently, he is pursuing a Diploma in Information System Audit (DISA) and the Certified Internal Auditor (CIA) certification from the USA. He has 12 years of working experience with a multinational manufacturing company in the fields of Internal Audit, NBFC Compliance, Budgeting & Forecasting, Financing, Indian Accounting Standards, and Foreign Operations. His areas of expertise include advisory on the Goods and Service Tax Act, Customs Act, Internal Audit, Forensic Audit, Environment Social Governance (ESG), BRSR Core, and SAP software. He also supports a listed NBFC as a Virtual CFO.",
+        "skillProgress": [
+            {
+                "id": 1,
+                "title": "Programming Language",
+                "end": 88
+            },
+            {
+                "id": 2,
+                "title": "Backend Development",
+                "end": 95
+            },
+            {
+                "id": 3,
+                "title": "Product Design",
+                "end": 80
+            }
+        ],
+        "memberData": [
+            {
+                "id": 1,
+                "listTitle": "Education",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Residential College",
+                        "info": "BA Honours - Biology",
+                        "timeSpan": "2004 - 2008"
+                    },
+                    {
+                        "id": 2,
+                        "title": "University of Iowa",
+                        "info": "Master's degree - Macroeconomics",
+                        "timeSpan": "2009 - 2012"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "listTitle": "Experience",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Product Manager",
+                        "info": "Samsung Bangladesh",
+                        "timeSpan": "31 Aug, 2013"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Senior Marketing",
+                        "info": "Manuring Technology Company",
+                        "timeSpan": "12 Dec 2018"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "activeClass": "",
+        "memberThumb": "2.jpg",
+        "designation": "Co-Founder and Active Partner",
+        "name": "CA SHWETA JAIN",
+        "email": "svjassociates2017@gmail.com",
+        "paragraph": "Mrs. Shweta Jain is the co-founder and active partner of the firm. She is a commerce graduate from Ramjas College, University of Delhi, and a fellow member of The Institute of Chartered Accountants of India (2013 batch). She has completed the Certification of Concurrent Audit from ICAI. With over 10 years of experience as a practicing Chartered Accountant, she possesses expertise in the fields of Income Tax, startup consultation, Statutory Audit, GST Audit, Tax Audit, and Tax planning for corporates, enterprises, and individuals. With her ambitious attitude and practical experience, she plays a strategic role by providing professional services aimed at maximizing profitability for her clients and aligning with the firm’s vision.",
+        "skillProgress": [
+            {
+                "id": 1,
+                "title": "Programming Language",
+                "end": 88
+            },
+            {
+                "id": 2,
+                "title": "Backend Development",
+                "end": 95
+            },
+            {
+                "id": 3,
+                "title": "Product Design",
+                "end": 80
+            }
+        ],
+        "memberData": [
+            {
+                "id": 1,
+                "listTitle": "Education",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Residential College",
+                        "info": "BA Honours - Biology",
+                        "timeSpan": "2004 - 2008"
+                    },
+                    {
+                        "id": 2,
+                        "title": "University of Iowa",
+                        "info": "Master's degree - Macroeconomics",
+                        "timeSpan": "2009 - 2012"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "listTitle": "Experience",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Product Manager",
+                        "info": "Samsung Bangladesh",
+                        "timeSpan": "31 Aug, 2013"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Senior Marketing",
+                        "info": "Manuring Technology Company",
+                        "timeSpan": "12 Dec 2018"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "activeClass": "",
+        "memberThumb": "8.jpg",
+        "designation": "Active Partner",
+        "name": "CA VIPUL AGGARWAL",
+        "email": "vipulaggarwal@sjvj.in",
+        "paragraph": "Mr. Vipul Aggarwal is an active partner of the firm and in charge of the Etawah branch. He is an associate member of The Institute of Chartered Accountants of India (2022 batch). With 14 years of experience, including 2 years as a practicing Chartered Accountant, he possesses expertise in the fields of Income Tax, Statutory Audit, GST Audit, Tax Audit, and Tax planning for corporates, enterprises, and individuals.",
+        "skillProgress": [
+            {
+                "id": 1,
+                "title": "Programming Language",
+                "end": 88
+            },
+            {
+                "id": 2,
+                "title": "Backend Development",
+                "end": 95
+            },
+            {
+                "id": 3,
+                "title": "Product Design",
+                "end": 80
+            }
+        ],
+        "memberData": [
+            {
+                "id": 1,
+                "listTitle": "Education",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Residential College",
+                        "info": "BA Honours - Biology",
+                        "timeSpan": "2004 - 2008"
+                    },
+                    {
+                        "id": 2,
+                        "title": "University of Iowa",
+                        "info": "Master's degree - Macroeconomics",
+                        "timeSpan": "2009 - 2012"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "listTitle": "Experience",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Product Manager",
+                        "info": "Samsung Bangladesh",
+                        "timeSpan": "31 Aug, 2013"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Senior Marketing",
+                        "info": "Manuring Technology Company",
+                        "timeSpan": "12 Dec 2018"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "activeClass": "",
+        "memberThumb": "4.jpg",
+        "designation": "N/A",
+        "name": "N/A",
+        "email": "N/A",
+        "skillProgress": [
+            {
+                "id": 1,
+                "title": "Programming Language",
+                "end": 88
+            },
+            {
+                "id": 2,
+                "title": "Backend Development",
+                "end": 95
+            },
+            {
+                "id": 3,
+                "title": "Product Design",
+                "end": 80
+            }
+        ],
+        "memberData": [
+            {
+                "id": 1,
+                "listTitle": "Education",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Residential College",
+                        "info": "BA Honours - Biology",
+                        "timeSpan": "2004 - 2008"
+                    },
+                    {
+                        "id": 2,
+                        "title": "University of Iowa",
+                        "info": "Master's degree - Macroeconomics",
+                        "timeSpan": "2009 - 2012"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "listTitle": "Experience",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Product Manager",
+                        "info": "Samsung Bangladesh",
+                        "timeSpan": "31 Aug, 2013"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Senior Marketing",
+                        "info": "Manuring Technology Company",
+                        "timeSpan": "12 Dec 2018"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "activeClass": "",
+        "memberThumb": "3.jpg",
+        "designation": "CEO & Founder",
+        "name": "Istiak Ahmed",
+        "email": "ahmed@digital.com",
+        "skillProgress": [
+            {
+                "id": 1,
+                "title": "Programming Language",
+                "end": 88
+            },
+            {
+                "id": 2,
+                "title": "Backend Development",
+                "end": 95
+            },
+            {
+                "id": 3,
+                "title": "Product Design",
+                "end": 80
+            }
+        ],
+        "memberData": [
+            {
+                "id": 1,
+                "listTitle": "Education",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Residential College",
+                        "info": "BA Honours - Biology",
+                        "timeSpan": "2004 - 2008"
+                    },
+                    {
+                        "id": 2,
+                        "title": "University of Iowa",
+                        "info": "Master's degree - Macroeconomics",
+                        "timeSpan": "2009 - 2012"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "listTitle": "Experience",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Product Manager",
+                        "info": "Samsung Bangladesh",
+                        "timeSpan": "31 Aug, 2013"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Senior Marketing",
+                        "info": "Manuring Technology Company",
+                        "timeSpan": "12 Dec 2018"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "activeClass": "",
+        "memberThumb": "7.jpg",
+        "designation": "Product Manager",
+        "name": "Kevin Martin",
+        "email": "kevin@digital.com",
+        "skillProgress": [
+            {
+                "id": 1,
+                "title": "Programming Language",
+                "end": 88
+            },
+            {
+                "id": 2,
+                "title": "Backend Development",
+                "end": 95
+            },
+            {
+                "id": 3,
+                "title": "Product Design",
+                "end": 80
+            }
+        ],
+        "memberData": [
+            {
+                "id": 1,
+                "listTitle": "Education",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Residential College",
+                        "info": "BA Honours - Biology",
+                        "timeSpan": "2004 - 2008"
+                    },
+                    {
+                        "id": 2,
+                        "title": "University of Iowa",
+                        "info": "Master's degree - Macroeconomics",
+                        "timeSpan": "2009 - 2012"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "listTitle": "Experience",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Product Manager",
+                        "info": "Samsung Bangladesh",
+                        "timeSpan": "31 Aug, 2013"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Senior Marketing",
+                        "info": "Manuring Technology Company",
+                        "timeSpan": "12 Dec 2018"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "activeClass": "",
+        "memberThumb": "5.jpg",
+        "designation": "Financial Consultant",
+        "name": "Sarah Albert",
+        "email": "sarah@digital.com",
+        "skillProgress": [
+            {
+                "id": 1,
+                "title": "Programming Language",
+                "end": 88
+            },
+            {
+                "id": 2,
+                "title": "Backend Development",
+                "end": 95
+            },
+            {
+                "id": 3,
+                "title": "Product Design",
+                "end": 80
+            }
+        ],
+        "memberData": [
+            {
+                "id": 1,
+                "listTitle": "Education",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Residential College",
+                        "info": "BA Honours - Biology",
+                        "timeSpan": "2004 - 2008"
+                    },
+                    {
+                        "id": 2,
+                        "title": "University of Iowa",
+                        "info": "Master's degree - Macroeconomics",
+                        "timeSpan": "2009 - 2012"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "listTitle": "Experience",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Product Manager",
+                        "info": "Samsung Bangladesh",
+                        "timeSpan": "31 Aug, 2013"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Senior Marketing",
+                        "info": "Manuring Technology Company",
+                        "timeSpan": "12 Dec 2018"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "activeClass": "",
+        "memberThumb": "4.jpg",
+        "designation": "Developer",
+        "name": "Aleesha Brown",
+        "email": "aleesha@digital.com",
+        "skillProgress": [
+            {
+                "id": 1,
+                "title": "Programming Language",
+                "end": 88
+            },
+            {
+                "id": 2,
+                "title": "Backend Development",
+                "end": 95
+            },
+            {
+                "id": 3,
+                "title": "Product Design",
+                "end": 80
+            }
+        ],
+        "memberData": [
+            {
+                "id": 1,
+                "listTitle": "Education",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Residential College",
+                        "info": "BA Honours - Biology",
+                        "timeSpan": "2004 - 2008"
+                    },
+                    {
+                        "id": 2,
+                        "title": "University of Iowa",
+                        "info": "Master's degree - Macroeconomics",
+                        "timeSpan": "2009 - 2012"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "listTitle": "Experience",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Product Manager",
+                        "info": "Samsung Bangladesh",
+                        "timeSpan": "31 Aug, 2013"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Senior Marketing",
+                        "info": "Manuring Technology Company",
+                        "timeSpan": "12 Dec 2018"
+                    }
+                ]
+            }
+        ]
+    }
+]

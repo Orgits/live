@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "thumb": "4.jpg",
+        "tag": "Growth",
+        "title": "Empowering Your Projects for Sustainable Growth",
+        "text": "At SJVJ & Co., we understand the critical role precise financial management plays in the success of your projects. Our expertise ensures accurate planning, seamless execution, and efficient resource management, empowering your projects to thrive and contribute to your business growth. With our tailored solutions, we help you achieve milestones with confidence and clarity.",
+        "btnText": "View Project"
+    },
+    {
+        "id": 2,
+        "thumb": "5.jpg",
+        "tag": "Excellence",
+        "title": "Strategic Insights for Project Excellence",
+        "text": "We go beyond numbers to provide actionable insights that drive your projects toward excellence. By aligning our financial expertise with your vision, we help you identify opportunities, mitigate risks, and optimize performance at every stage of your project’s lifecycle. Together, we ensure success that’s both measurable and sustainable.",
+        "btnText": "View Project"
+    }
+]

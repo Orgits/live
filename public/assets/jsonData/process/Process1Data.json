@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "thumb": "Understanding.jpg",
+        "activeClass": "active",
+        "steps": "01",
+        "title": "Understanding Client Needs",
+        "text": "We begin by analyzing your requirements and financial goals to provide tailored solutions."
+    },
+    {
+        "id": "2",
+        "thumb": "6.jpg",
+        "activeClass": "",
+        "steps": "02",
+        "title": "Strategic Planning & Execution",
+        "text": "Our team formulates and implements efficient strategies to meet your accounting, compliance, and financial needs."
+    },
+    {
+        "id": "3",
+        "thumb": "5.jpg",
+        "activeClass": "",
+        "steps": "03",
+        "title": "Ongoing Support & Optimization",
+        "text": "We ensure continuous support, monitoring, and optimization for sustainable growth and success."
+    }
+]

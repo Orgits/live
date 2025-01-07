@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "tabClass": "show active",
+        "tabId": "tab1",
+        "ariaLabelled": "nav-id-1",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": 0,
+                "icon": "flaticon-personal",
+                "title": "Audit & Assurance",
+                "text": "Gain confidence in your financial reporting with our expert audit services, ensuring compliance, transparency, and actionable insights for better decision-making."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-career",
+                "title": "Reports & Certification",
+                "text": "We provide precise reports and certifications for regulatory and statutory compliance, tailored to meet the unique needs of your business."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-group",
+                "title": "Internal Audit",
+                "text": "Strengthen your internal controls and improve operational efficiency with our thorough internal audit services."
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "flaticon-solution-5",
+                "title": "Risk Assessment & Mitigation",
+                "text": "Identify, assess, and mitigate potential risks to safeguard your organization's assets and reputation."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "tabClass": "",
+        "tabId": "tab2",
+        "ariaLabelled": "nav-id-2",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": "0",
+                "icon": "flaticon-business-trip",
+                "title": "Governance, Risk & Compliance (GRC) Advisory",
+                "text": "Develop robust frameworks to manage risks, ensure compliance, and enhance corporate governance standards."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-online-store",
+                "title": "Advisory & Assistance",
+                "text": "Tailored business advisory solutions to address challenges in strategic planning, financial restructuring, and operational growth."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-funds",
+                "title": "FEMA Advisory",
+                "text": "Expert guidance on cross-border transactions, foreign investments, and compliance with FEMA regulations."
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "flaticon-career",
+                "title": "Corporate Strategy Development",
+                "text": "Craft strategic plans that align with your business goals and market dynamics, ensuring long-term success."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "tabClass": "",
+        "tabId": "tab3",
+        "ariaLabelled": "nav-id-3",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": "0",
+                "icon": "flaticon-budget",
+                "title": "Outsourcing Support Service",
+                "text": "Delegate routine operations like accounting, payroll, and administrative tasks to our team, allowing you to focus on growth."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-money-1",
+                "title": "Financial Management Support",
+                "text": "From budgeting to cash flow management, we help optimize your financial resources for maximum efficiency."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-funds",
+                "title": "HR & Payroll Management",
+                "text": "Simplify employee management with seamless payroll and HR solutions tailored to your organizational needs."
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "flaticon-world-globe",
+                "title": "Tax Compliance Support",
+                "text": "Ensure timely and accurate tax filings, reducing risks and penalties associated with non-compliance."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "tabClass": "",
+        "tabId": "tab4",
+        "ariaLabelled": "nav-id-4",
+        "tabData": [
+            {
+                "id": 1,
+                "animationDelay": "0",
+                "icon": "flaticon-personal",
+                "title": "Corporate Law Advisory",
+                "text": "Stay updated and compliant with the latest corporate laws and governance practices to avoid legal complications."
+            },
+            {
+                "id": 2,
+                "animationDelay": "",
+                "icon": "flaticon-career",
+                "title": "Mergers & Acquisitions Support",
+                "text": "Navigate complex M&A transactions with confidence, from due diligence to regulatory approvals."
+            },
+            {
+                "id": 3,
+                "animationDelay": "",
+                "icon": "flaticon-group",
+                "title": "Company Formation & Structuring",
+                "text": "Set up and structure your company effectively, ensuring compliance with statutory and legal requirements."
+            },
+            {
+                "id": 4,
+                "animationDelay": "",
+                "icon": "flaticon-solution-5",
+                "title": "Legal Documentation & Agreements",
+                "text": "Prepare and review contracts, agreements, and other legal documents to safeguard your business interests."
+            }
+        ]
+    }
+]
