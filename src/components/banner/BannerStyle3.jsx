@@ -1,6 +1,6 @@
 "use client"
 import React from 'react';
-import Banner1Data from '@/assets/jsonData/banner/Banner1Data.json'
+import Banner3Data from '@/assets/jsonData/banner/Banner3Data.json'
 import { Autoplay, EffectFade, Keyboard, Navigation } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import SingleBanner3 from './SingleBanner3';
@@ -34,7 +34,7 @@ const BannerStyle3 = () => {
                                 prevEl: ".swiper-button-prev"
                             }}
                         >
-                            {Banner1Data.map(banner =>
+                            {Banner3Data.map(banner =>
                                 <SwiperSlide key={banner.id} className='banner-style-three'>
                                     <SingleBanner3 banner={banner} />
                                 </SwiperSlide>
