@@ -24,11 +24,11 @@ const ContactInfo = () => {
                         </div>
                         <div className="info">
                             <h5 className="title">Our Locations</h5>
-                            <p><b> Nehru Place at New Delhi, India</b></p>
+                            <p className='Branch-paragraph'><b> Nehru Place at New Delhi, India</b></p>
                             <div className="info">
-                            <p><b>Geeta Colony at New Delhi, India</b></p>
+                            <p className='Branch-paragraph'><b>Geeta Colony at New Delhi, India</b></p>
                             <div className="info">
-                            <p><b>Etawah at Uttar Pradesh in India.</b></p>
+                            <p className='Branch-paragraph'><b>Etawah at Uttar Pradesh in India.</b></p>
                             </div>
                         </div></div>
                     </li>

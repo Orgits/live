@@ -18,5 +18,15 @@
         "btnText": "Our Services",
         
         "videoId": "owhuBrGIOsEdsk"
+    },
+    {
+        "id": 3,
+        "bgThumb": "bann-3.jpg",
+        "title": "Business Consulting",
+        "title1": "Strategies for",
+        "title2": "Enduring Success",
+        "btnText": "Our Services",
+        
+        "videoId": "owhuBrGIOsEdsk"
     }
 ]

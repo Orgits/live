@@ -36,7 +36,7 @@ const MainMenu = ({ toggleSubMenu, navbarPlacement }) => {
                     </ul> */}
                 {/* </li> */}
                 <li className="dropdown">
-                    <Link href="/Client">Client</Link>
+                    <Link href="/client">Client</Link>
                 </li>
                 <li className="dropdown">
                     <Link href="/blog-3-column">Blog</Link>

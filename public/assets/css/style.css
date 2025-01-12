@@ -1,6 +1,6 @@
 /* ----------------------------------
 
-Template Name: SJVJ & CO. - NextJS Template
+Template Name: SJVJ & COMPANY.
 Author: validTheme
 Description:
 Version: 1.0
@@ -124,6 +124,107 @@ Sidebar heading:  20px 'Outfit', sans-serif
 please dont make correction head */
 
 
+/* Client Page component css Start----here */
+
+.container-card-ClientSection {
+ 	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.heading-card-deck {
+	text-align: center;
+	font-size: 2.8rem;
+	font-weight: 700;
+	color: #145886;
+	margin-bottom: 20px;
+	margin-top: 25px;
+
+	@media screen and (max-width: 768px) {
+		font-size: 2.2rem;
+		margin-top: 10px;
+	}
+
+}
+
+.card-img-top {
+    width: 100%; /* Ensures the image takes up the full width of the card */
+    height: 200px; /* Adjust the height to suit your design */
+    object-fit: cover; /* Ensures the image is cropped to fit the container while preserving its aspect ratio */
+    object-position: center; /* Centers the image within the container */
+    border-radius: 8px; /* Optional: Adds rounded corners to match the card's style */
+}
+
+.card-title {
+	text-align: center;
+	font-size: 1.3rem;
+	font-weight: 700;
+	color: #145886;
+	margin-bottom: 20px;
+	margin-top: 10px;
+
+	@media screen and (max-width: 768px) {
+		font-size: 1.5rem;
+		margin-top: 5px;
+	}
+
+
+}
+.para-g-card-deck{
+	text-align: center;
+	font-size: 1.2rem;
+	font-weight: 400;
+	color: (--var black);
+	margin-bottom: 10px;
+	margin-top: 25px;
+
+	@media screen and (max-width: 768px) {
+		font-size: 1rem;
+		margin-top: 10px;
+	}
+}
+.card-deck-bootstrap {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	margin-top: 30px; ;
+	margin-bottom: 30px;
+	
+	
+	
+}
+
+.Client-Tittle {
+	text-align: center;
+	font-size: 35px;
+	font-weight: 800;
+	color: #145886;
+	margin-bottom: 30px;
+	margin-top: 35px;
+
+}
+
+
+.card {
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	margin: 10px;
+	overflow: hidden;
+	position: relative;
+	width: 18rem;
+
+	@media screen and (max-width: 768px) {
+		display: flex;
+		justify-content: center;
+		align-self: center;
+		width: 13.5rem;
+	}
+}	
 
 
 /* header menu changes 
@@ -3388,7 +3489,7 @@ p {
 .banner-area .button {
 	-webkit-transition: all 500ms ease;
 	transition: all 500ms ease;
-	-webkit-transform: translateY(50%);
+	-webkit-transform: translateY(0%);
 	transform: translateY(50%);
 	opacity: 0;
 	visibility: hidden;
@@ -3590,6 +3691,7 @@ p {
 	-webkit-transition: all 0.35s ease-in-out;
 	transition: all 0.35s ease-in-out;
 	opacity: 0;
+
 }
 
 .banner-area .swiper-button-prev::after,
@@ -3847,7 +3949,12 @@ p {
 
 /* ============================================================== 
     # Banner Custom Style
+
+	
 =================================================================== */
+
+
+
 
 .banner-area .align-center {
 	align-items: center;
@@ -3928,7 +4035,7 @@ p {
 	text-transform: uppercase;
 }
 
-.banner-shape-bg {
+/* .banner-shape-bg {
 	position: absolute;
 	right: -50%;
 	bottom: 0;
@@ -3938,7 +4045,7 @@ p {
 	height: 50% !important;
 	transition: all 0.55s ease-in-out;
 	justify-content: right;
-}
+} */
 
 .banner-style-one.swiper-slide-visible .banner-shape-bg {
 	right: 0;
@@ -5010,7 +5117,11 @@ p {
 /* ============================================================== 
     # Services Details
 =================================================================== */
-
+.Branch-paragraph {
+	font-size: 16px;
+	line-height: 1.5;
+	color: #145886;
+}
 .services-details-area .thumb img {
 	margin-bottom: 40px;
 }
@@ -8639,6 +8750,7 @@ form.seo-form input:-moz-placeholder {
 .contact-style-one-info li {
 	display: flex;
 	margin-top: 30px;
+	align-items: center;
 }
 
 .contact-style-one-info li i {

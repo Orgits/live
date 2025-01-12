@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "thumb": "2.png",
+        "thumb": "AUDIT AND ASSURANCE.png",
         "thumbFull": "2-full.jpg",
         "activeClass": "",
         "title": "Audit & Assurance",
@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "thumb": "1.png",
+        "thumb": "Reports.png",
         "thumbFull": "3-full.jpg",
         "activeClass": "",
         "title": "Reports & Certification",
@@ -21,7 +21,7 @@
     },
     {
         "id": 3,
-        "thumb": "3.png",
+        "thumb": "Accounts Outsourcing.png",
         "thumbFull": "4-full.jpg",
         "activeClass": "",
         "title": "Outsourcing Support Service",

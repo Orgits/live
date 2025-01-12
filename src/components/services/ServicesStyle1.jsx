@@ -24,13 +24,13 @@ const ServicesStyle1 = () => {
                                         <i className="flaticon-save-money"></i>
                                         AUDIT AND ASSURANCE
                                     </button>
-                                    <button className="nav-link" id="nav-id-2" data-bs-toggle="tab" data-bs-target="#tab2" type="button" role="tab" aria-controls="tab2" aria-selected="false">
-                                        <i className="flaticon-megaphone"></i>
-                                        LITIGATION SERVICES
-                                    </button>
                                     <button className="nav-link" id="nav-id-3" data-bs-toggle="tab" data-bs-target="#tab3" type="button" role="tab" aria-controls="tab3" aria-selected="false">
                                         <i className="flaticon-save-money"></i>
                                         INTERNATIONAL TAXATION
+                                    </button>
+                                    <button className="nav-link" id="nav-id-2" data-bs-toggle="tab" data-bs-target="#tab2" type="button" role="tab" aria-controls="tab2" aria-selected="false">
+                                        <i className="flaticon-megaphone"></i>
+                                        LITIGATION SERVICES
                                     </button>
                                     <button className="nav-link" id="nav-id-4" data-bs-toggle="tab" data-bs-target="#tab4" type="button" role="tab" aria-controls="tab4" aria-selected="false">
                                         <i className="flaticon-save-money"></i>

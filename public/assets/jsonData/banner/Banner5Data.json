@@ -6,7 +6,7 @@
         "title1": "Light Up With Solar &",
         "title2": "Save Natural Resource",
         "btnText": "OUR STORY",
-        "shape": "4.png"
+        "shape": ""
     },
     {
         "id": 2,
@@ -15,6 +15,6 @@
         "title1": "Largest Producer of",
         "title2": "Wind & Solar energy",
         "btnText": "OUR STORY",
-        "shape": "4.png"
+        "shape": ""
     }
 ]

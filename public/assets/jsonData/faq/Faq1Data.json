@@ -5,9 +5,9 @@
         "btnClass": "",
         "collapseTarget": "collapseOne",
         "expanded": "true",
-        "title": "Where can I get analytics help?",
+        "title": "What services do chartered accountants offer?",
         "textClass": "show",
-        "text": "Bennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now minute exact dear open to reaching out."
+        "text": "Chartered accountants offer comprehensive services including statutory and internal audits, tax planning and filing, financial advisory, bookkeeping, company registration, business valuations, and compliance with regulations like GST and income tax. They cater to both individuals and businesses to ensure financial accuracy and efficiency."
     },
     {
         "id": 2,
@@ -15,9 +15,9 @@
         "btnClass": "collapsed",
         "collapseTarget": "collapseTwo",
         "expanded": "false",
-        "title": "How much does data analytics costs?",
+        "title": "How much do CA services typically cost?",
         "textClass": "",
-        "text": "Cennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now minute exact dear open to reaching out."
+        "text": "The cost of hiring a chartered accountant depends on the type and scope of services needed. For instance, basic services like tax filing may be relatively affordable, while more specialized tasks like audits, business restructuring, or financial advisory might incur higher fees. Customized pricing is usually provided based on client requirements."
     },
     {
         "id": 3,
@@ -25,9 +25,9 @@
         "btnClass": "collapsed",
         "collapseTarget": "collapseThree",
         "expanded": "false",
-        "title": "What kind of data is needed for analysis?",
+        "title": "How can a CA help with tax compliance?",
         "textClass": "",
-        "text": "Tennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now minute exact dear open to reaching out."
+        "text": "Chartered accountants assist with tax compliance by ensuring timely and accurate tax return filings, advising on applicable deductions and exemptions, managing GST compliance, conducting tax audits, and representing clients during assessments. Their expertise minimizes the risk of penalties and ensures adherence to legal frameworks."
     },
     {
         "id": 4,
@@ -35,8 +35,8 @@
         "btnClass": "collapsed",
         "collapseTarget": "collapseFour",
         "expanded": "false",
-        "title": "What kind of data is needed for analysis?",
+        "title": "What are the benefits of hiring a CA for business?",
         "textClass": "",
-        "text": "Tennings appetite disposed me an at subjects an. To no indulgence diminution so discovered mr apartments. Are off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now minute exact dear open to reaching out."
+        "text": "Hiring a chartered accountant provides businesses with expert financial management, precise accounting, and tax-saving strategies. CAs ensure compliance with statutory obligations, offer insights for financial planning, and assist in decision-making processes, enabling businesses to grow sustainably while mitigating risks."
     }
 ]

@@ -25,7 +25,7 @@ const manrope = Manrope({ subsets: ["latin"] });
 const outfit = Outfit({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "SJVJ & CO."
+  title: "SJVJ & COMPANY"
 }
 
 export default function RootLayout({ children }) {

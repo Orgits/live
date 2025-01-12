@@ -1,11 +1,11 @@
 [
     {
         "id": 1,
-        "bgThumb": "15.jpg",
-        "subTitle": "Permanent Life",
-        "title": "The easiest way get insurance",
-        "btnText": "Apply Now",
-        "shapeThumb": "43.png",
+        "bgThumb": "10.png",
+        "subTitle": "Financial Analysis",
+        "title": "Meet Chartered Accountants",
+        "btnText": "Our Services",
+        "shapeThumb": "",
         "listInfo": [
             {
                 "id": 1,
@@ -19,11 +19,11 @@
     },
     {
         "id": 2,
-        "bgThumb": "16.jpg",
+        "bgThumb": "bann-3.jpg",
         "subTitle": "Home & Renters",
         "title": "Protecting future inspiring hope",
         "btnText": "Apply Now",
-        "shapeThumb": "43.png",
+        "shapeThumb": "",
         "listInfo": [
             {
                 "id": 1,

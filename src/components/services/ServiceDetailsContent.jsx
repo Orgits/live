@@ -27,26 +27,25 @@ const ServiceDetailsContent = ({ serviceInfo }) => {
                                                 <h3>Included Services</h3>
                                                 <ul className="feature-list-item">
                                                     <li>N/A</li>
-                                                    {/* <li>24/7 Alltime Supporting</li>
-                                                    <li>Marketing Service</li>
-                                                    <li>Expert Team Members</li> */}
                                                 </ul>
                                             </div>
                                         </div>
                                         <div className="col-lg-7 col-md-6 mt-xs-30">
-                                            <div className="content">
+                                        <div className="content">
                                                 <h3>The Challange</h3>
-                                                <p>
-                                                    Please Provide Details.
-                                                </p>
+                                                <ul className="feature-list-item">
+                                                    <li>N/A</li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <h3>What we do?</h3>
-                                <p>
-                                    N/A
-                                </p>
+                                <div className="content">
+                                                <h3>What We Do</h3>
+                                                <ul className="feature-list-item">
+                                                    <li>N/A</li>
+                                                </ul>
+                                            </div>
 
                                 <div className="faq-style-one dark mt-40">
                                     <h3 className="mb-30">Common Question for this project</h3>
@@ -63,18 +62,18 @@ const ServiceDetailsContent = ({ serviceInfo }) => {
                                         <div className="col-md-6">
                                             <div className="item">
                                                 <i className="flaticon-personal"></i>
-                                                <h4><Link href="#" onClick={handleSmoothScroll}>Investment Planning</Link></h4>
+                                                <h4><Link href="#" onClick={handleSmoothScroll}>Trademark & Registration</Link></h4>
                                                 <p>
-                                                   N/A
+                                                Protect your brand with Trademark Registration and secure creative works with Copyright services. Simplify compliance and safeguard your intellectual property effortlessly.
                                                 </p>
                                             </div>
                                         </div>
                                         <div className="col-md-6">
                                             <div className="item">
                                                 <i className="flaticon-career"></i>
-                                                <h4><Link href="#" onClick={handleSmoothScroll}>Markets Research</Link></h4>
+                                                <h4><Link href="#" onClick={handleSmoothScroll}>FEMA Advisory</Link></h4>
                                                 <p>
-                                                    N/A
+                                                Navigate FEMA regulations with expert guidance. Simplify compliance, manage foreign exchange, and ensure seamless cross-border transactions.
                                                 </p>
                                             </div>
                                         </div>
@@ -87,6 +86,7 @@ const ServiceDetailsContent = ({ serviceInfo }) => {
                                     <h4 className="widget-title">Other Services</h4>
                                     <div className="content">
                                         <ul>
+                                        <li><Link href="#">Trademark & Registration</Link></li>
                                             <li><Link href="#">Audit & Assurance</Link></li>
                                             <li className="current-item"><Link href="#">Reports & Certification</Link></li>
                                             <li><Link href="#">Advisory & Assistance</Link></li>

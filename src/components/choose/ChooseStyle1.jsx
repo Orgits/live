@@ -24,7 +24,7 @@ const ChooseStyle1 = () => {
                                         </p>
                                     </li>
                                     <li className="wow fadeInUp" data-wow-delay="300ms">
-                                        <h4>24/7 Customer Support </h4>
+                                        <h4>Dedicated Business Support </h4>
                                         <p>
                                         Our support services are designed to be your backbone in navigating complex financial and business challenges. With a commitment to dependability and excellence, we provide tailored assistance that empowers your success and fosters lasting partnerships.
                                         </p>

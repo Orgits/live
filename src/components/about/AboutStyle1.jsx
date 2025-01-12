@@ -22,7 +22,11 @@ const AboutStyle1 = () => {
                             <div className="h4 sub-heading">Feel Valued & Rewarded</div>
                             <h2 className="title mb-25">Empowering Financial Clarity and Success</h2>
                             <p>
-                            We are dedicated to understanding your challenges and are committed to asking the right questions to deliver impactful solutions. Our expertise is built on a foundation of knowledge and education. Beyond numbers, we focus on creating meaningful connections. We value diverse perspectives and strive to provide insights that empower your financial journey. Together, let’s craft a future of financial clarity and success.
+                                We are dedicated to understanding your challenges and are committed to asking the right questions to deliver impactful solutions.
+                                Our expertise is built on a foundation of deep knowledge of subject and business. Beyond numbers,
+                                we provide professional solutions for business growth and value.
+                                We value diverse perspectives and strive to provide insights that empower your financial journey.
+                                Together, let's craft a fut ure of financial clarity and success.
                             </p>
                             <div className="owner-info">
                                 <div className="left-info">

@@ -29,6 +29,15 @@ const FooterStyle1 = ({ shape, shapeClass,  formStyle }) => {
                 </Link>
                                     <p> Trusted Excellence in Accounting, Taxation, and Financial Solutions.
                                     </p>
+                                    <div className="opening-hours"></div>
+                                    <h5>Branch Offices in India</h5>
+                                    <ul>
+                                            <li>
+                                                <div className="footer-branch-list">Nehru Place at New Delhi, India</div>
+                                                <div className="footer-branch-list">Geeta Colony at New Delhi, India</div>
+                                                <div className="footer-branch-list">Etawah at Uttar Pradesh in India.</div>
+                                            </li>
+                                        </ul>
                                     <div className="opening-hours">
                                         <h5>Opening Hours</h5>
                                         <ul>
@@ -43,7 +52,7 @@ const FooterStyle1 = ({ shape, shapeClass,  formStyle }) => {
                                                 <div className="working-hour">Off Day</div>
                                             </li>
                                         </ul>
-                                    </div>
+                                    </div>                                 
                                 </div>
                             </div>
                             <div className="col-lg-2 col-md-6 footer-item">
@@ -60,7 +69,10 @@ const FooterStyle1 = ({ shape, shapeClass,  formStyle }) => {
                                             <Link href="#">Our Team</Link>
                                         </li>
                                         <li>
-                                            <Link href="#">Service</Link>
+                                            <Link href="#">Clients</Link>
+                                        </li>
+                                        <li>
+                                            <Link href="/services">Service</Link>
                                         </li>
                                         <li>
                                         <Link href="/contact-us">Contact Us</Link>
@@ -89,6 +101,9 @@ const FooterStyle1 = ({ shape, shapeClass,  formStyle }) => {
                                         </li>
                                         <li>
                                             <Link href="./">Governance, Risk & Compilance Advisory</Link>
+                                        </li><
+                                            li>
+                                            <Link href="./">Trademark & Registration</Link>
                                         </li>
                                         <li>
                                             <Link href="./">Advisory & Assistance</Link>
@@ -121,7 +136,7 @@ const FooterStyle1 = ({ shape, shapeClass,  formStyle }) => {
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-6">
-                                <p>&copy; Copyright {(new Date().getFullYear())}. All Rights Reserved by SJVJ & CO.</p>
+                                <p>&copy; Copyright {(new Date().getFullYear())}. All Rights Reserved by SJVJ & COMPANY</p>
                             </div>
                             <div className="col-lg-6 text-end">
                                 <ul>
