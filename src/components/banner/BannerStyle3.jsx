@@ -1,6 +1,6 @@
 "use client"
 import React from 'react';
-import Banner1Data from '@/assets/jsonData/banner/BannerData.json'
+import Banner1Data from '@/assets/jsonData/banner/Banner1Data.json'
 import { Autoplay, EffectFade, Keyboard, Navigation } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import SingleBanner3 from './SingleBanner3';
