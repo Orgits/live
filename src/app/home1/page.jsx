@@ -1,4 +1,4 @@
-import LayoutStyle1 from '@/components/Layouts/LayoutStyle1';
+import LayoutStyle7 from '@/components/Layouts/LayoutStyle7';
 import AboutStyle1 from '@/components/about/AboutStyle1';
 import BannerStyle1 from '@/components/banner/BannerStyle1';
 import BlogStyle1 from '@/components/blog/BlogStyle1';
@@ -19,7 +19,7 @@ export const metadata = {
 const Home1 = () => {
     return (
         <>
-            <LayoutStyle1>
+            <LayoutStyle7>
                 <BannerStyle1 />
                 <AboutStyle1 />
                 <ServicesStyle1 />
@@ -31,7 +31,7 @@ const Home1 = () => {
                 <RequestCallStyle1 />
                 {/* <TestimonialStyle1 /> */}
                 <BlogStyle1 sectionClass="bg-gray" />
-            </LayoutStyle1>
+            </LayoutStyle7>
         </>
     );
 };

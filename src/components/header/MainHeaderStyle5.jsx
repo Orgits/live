@@ -3,9 +3,9 @@ import React from 'react';
 import MainMenu from './MainMenu';
 import Link from 'next/link';
 import Image from 'next/image';
-import logoLightSolid from "@/assets/img/logo-light-solid.png"
-import logoSolar from "@/assets/img/logo-solar.png"
-import logo from "@/assets/img/logo.png"
+import logoLightSolid from "@/assets/img/logo-group.svg"
+import logoSolar from "@/assets/img/logo-group.svg"
+import logo from '@/assets/img/logo-group.svg';
 import useStickyMenu from '../hooks/useStickyMenu';
 import useSubMenuToggle from '../hooks/useSubMenuToggle';
 import useSidebarMenu from '../hooks/useSidebarMenu';
@@ -41,7 +41,7 @@ const MainHeaderStyle5 = () => {
                             <div className="attr-right">
                                 <div className="attr-nav">
                                     <ul>
-                                        <li className="button"><Link href="/contact-us">Request a Quote</Link></li>
+                                        <li className="button"><Link href="/contact-us"> Get Consultant</Link></li>
                                     </ul>
                                 </div>
                             </div>

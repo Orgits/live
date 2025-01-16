@@ -6,7 +6,7 @@ import useSidebarMenu from '../hooks/useSidebarMenu';
 import HeaderLogo from './HeaderLogo';
 import useSubMenuToggle from '../hooks/useSubMenuToggle';
 import Link from 'next/link';
-import logo from '@/assets/img/logo.png';
+import logo from '@/assets/img/calogo1.svg';
 import Image from 'next/image';
 
 const MainHeaderStyle7 = () => {

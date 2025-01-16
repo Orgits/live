@@ -10,7 +10,7 @@ const HeaderTopStyle3 = () => {
                         <div className="col-lg-7">
                             <ul className="item-flex">
                                 <li>
-                                    <i className="fas fa-map-marker-alt"></i> Nehru Place
+                                    <i className="fas fa-map-marker-alt"></i> Branch Offices in India
                                 </li>
                                 <li>
                                     <a href="tel:+4733378901"><i className="fas fa-phone-alt"></i> +91 99996 67121</a>

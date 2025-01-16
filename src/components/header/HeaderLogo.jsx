@@ -1,9 +1,8 @@
 "use client";
 import React from 'react';
-import logo from '@/assets/img/logo-group.svg';
+import logo from '@/assets/img/calogo1.svg';
 import Image from 'next/image';
 import Link from 'next/link';
-
 const HeaderLogo = ({ openMenu }) => {
     return (
         <>
