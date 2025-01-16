@@ -776,12 +776,12 @@ p {
 }
 
 .default-padding {
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 40px;
+	padding-bottom: 40px;
 }
 
 @media only screen and (max-width: 767px) {
-	.default-padding {
+	.-padding {
 		padding-top: 50px;
 		padding-bottom: 50px;
 	}
@@ -2827,6 +2827,9 @@ p {
 	background-color: transparent;
 	color: #999999;
 	cursor: default;
+}
+.nav-link {
+	text-align: right;
 }
 
 .no-csspointerevents .nice-select .list {
