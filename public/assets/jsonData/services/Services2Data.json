@@ -5,7 +5,6 @@
         "thumbFull": "AUDIT AND ASSURANCE.png",
         "activeClass": "",
         "title": "Audit & Assurance",
-        "icon": "flaticon-budget",
         "text": "Ensure your business's financial integrity with comprehensive Audit & Assurance services. Through detailed analysis of your financial statements, we identify risks, ensure compliance, and provide actionable insights. Our services enhance transparency, accuracy, and confidence in your financial reporting, helping you strengthen decision-making and align with regulatory requirements.",
         "btnText": "Read More"
     },
@@ -15,7 +14,6 @@
         "thumbFull": "reports.webp",
         "activeClass": "",
         "title": "Reports & Certification",
-        "icon": "flaticon-bar-chart",
         "text": "Accurate and reliable reports are essential for decision-making. Our Reports & Certification services provide stakeholders with confidence by delivering clear, detailed insights. From regulatory certifications to customized reports, we ensure compliance, improve transparency, and help businesses meet statutory obligations for better strategic planning and performance.",
         "btnText": "Read More"
     },
@@ -25,7 +23,6 @@
         "thumbFull": "Accounts Outsourcing.png",
         "activeClass": "",
         "title": "Outsourcing Support Service",
-        "icon": "flaticon-credit-cards",
         "text": "Focus on core operations while we handle outsourcing of finance, accounting, payroll, and administrative tasks. Our efficient support services help reduce overheads, ensure compliance, and improve operational accuracy. By integrating seamlessly into your processes, we enable your business to thrive and stay ahead in a competitive market.",
         "btnText": "Read More"
     },
@@ -35,7 +32,6 @@
         "thumbFull": "capitol2.png",
         "activeClass": "",
         "title": "Governance, Risk & Compliance Advisory",
-        "icon": "flaticon-bar-chart",
         "text": "Our Governance, Risk & Compliance (GRC) Advisory services provide businesses with strategies to navigate evolving regulatory landscapes. From establishing governance frameworks to mitigating risks, we empower your business to meet legal obligations confidently. Trust us to streamline compliance and build operational resilience for sustainable success.",
         "btnText": "Read More"
     },
@@ -45,7 +41,6 @@
         "thumbFull": "Fema Compliances and Compounding.png",
         "activeClass": "",
         "title": "FEMA Advisory",
-        "icon": "flaticon-bar-chart",
         "text": "Stay compliant with India's FEMA regulations with our specialized advisory services. From cross-border transactions to foreign investment planning, we assist businesses in navigating regulatory requirements effectively. Our tailored solutions ensure seamless compliance, minimize risks, and facilitate smooth operations in the global business environment.",
         "btnText": "Read More"
     },
@@ -55,7 +50,6 @@
         "thumbFull": "corporate Law.webp",
         "activeClass": "",
         "title": "Corporate Law",
-        "icon": "flaticon-bar-chart",
         "text": "Navigate corporate legal complexities with confidence. Our Corporate Law services cover company formation, mergers and acquisitions, governance, and documentation. By ensuring compliance with regulations, we help you streamline operations, minimize risks, and achieve your strategic goals with a strong legal foundation.",
         "btnText": "Read More"
     },
@@ -65,7 +59,6 @@
         "thumbFull": "NRI Tax Compliance.png",
         "activeClass": "",
         "title": "NRI Tax Compliance",
-        "icon": "flaticon-tax",
         "text": "Simplify tax compliance for Non-Resident Indians (NRIs) with our expert services. We assist in tax planning, filing returns, and ensuring adherence to Indian tax laws. Our team provides tailored solutions to help NRIs avoid penalties, optimize taxes, and maintain compliance with all regulatory requirements.",
         "btnText": "Read More"
     },
@@ -75,7 +68,6 @@
         "thumbFull": "remail-428.webp",
         "activeClass": "",
         "title": "Regulatory Compliance for Business",
-        "icon": "flaticon-compliance",
         "text": "Ensure your business adheres to all statutory and legal requirements effectively. Our Regulatory Compliance services include preparing necessary documentation, obtaining approvals, and streamlining compliance processes. We help businesses navigate complex regulatory frameworks, reduce risks, and maintain operational continuity in an ever-evolving regulatory environment.",
         "btnText": "Read More"
     },
@@ -85,7 +77,6 @@
         "thumbFull": "Registration of Section 8 Company.png",
         "activeClass": "",
         "title": "Registration of Section 8 Company",
-        "icon": "flaticon-registration",
         "text": "Facilitate the registration of Section 8 Companies for promoting charitable and social objectives. Our team ensures compliance with statutory guidelines, drafts necessary documents, and handles the entire registration process. Trust us to help you focus on creating a positive impact while we manage the legal complexities.",
         "btnText": "Read More"
     },
@@ -95,7 +86,6 @@
         "thumbFull": "Bankruptcy.webp",
         "activeClass": "",
         "title": "Insolvency and Bankruptcy Code Services",
-        "icon": "flaticon-bankruptcy",
         "text": "Navigate insolvency and bankruptcy processes with confidence. Our expert services include debt resolution, restructuring, and compliance with the Insolvency and Bankruptcy Code (IBC). Trust us to provide strategic guidance, handle documentation, and ensure seamless execution for businesses facing financial challenges.",
         "btnText": "Read More"
     },
@@ -105,7 +95,6 @@
         "thumbFull": "fema-compliances-service.jpg",
         "activeClass": "",
         "title": "FEMA Compliances and Compounding",
-        "icon": "flaticon-fema",
         "text": "Simplify FEMA compliance and manage compounding procedures with ease. Our services include documentation, filing, and advisory for cross-border transactions. We ensure adherence to foreign exchange regulations and assist in resolving violations effectively, enabling smooth business operations in global markets.",
         "btnText": "Read More"
     },
@@ -115,7 +104,6 @@
         "thumbFull": "FCRA Registration1.jpg",
         "activeClass": "",
         "title": "FCRA Registration & Renewal",
-        "icon": "flaticon-renewal",
         "text": "Get specialized assistance for FCRA registration and renewal processes. We help NGOs comply with statutory guidelines, draft necessary documents, and secure approvals to maintain uninterrupted access to foreign contributions for their projects. Trust our experts to simplify the process and ensure smooth compliance.",
         "btnText": "Read More"
     },
@@ -125,7 +113,6 @@
         "thumbFull": "Accounts Outsourcing.webp",
         "activeClass": "",
         "title": "Accounts Outsourcing",
-        "icon": "flaticon-outsourcing",
         "text": "Outsource your accounting functions to our team of professionals for increased accuracy and efficiency. From bookkeeping to preparing financial statements, we streamline operations while ensuring compliance with tax regulations. Let us handle your accounts while you focus on achieving your business goals effectively.",
         "btnText": "Read More"
     },
@@ -135,7 +122,6 @@
         "thumbFull": "man-2562325_1280.jpg",
         "activeClass": "",
         "title": "TP Study & Report",
-        "icon": "flaticon-report",
         "text": "Prepare comprehensive transfer pricing (TP) study reports to comply with regulations. Our experts analyze intercompany transactions, evaluate pricing methodologies, and ensure documentation aligns with global standards. Stay audit-ready and compliant while optimizing your transfer pricing strategy with our specialized services.",
         "btnText": "Read More"
     },
@@ -145,7 +131,6 @@
         "thumbFull": "COMPANY AND LLP COMPLIANCES.png",
         "activeClass": "",
         "title": "Limited Liability Partnership",
-        "icon": "flaticon-llp",
         "text": "Facilitate the formation of Limited Liability Partnerships (LLP) with expert support. Our services ensure compliance with legal requirements, streamline the registration process, and provide guidance on structuring. Establish your LLP confidently with our end-to-end assistance, tailored to meet your business needs.",
         "btnText": "Read More"
     },
@@ -155,7 +140,6 @@
         "thumbFull": "branch-office.jpg",
         "activeClass": "",
         "title": "Branch Office in India",
-        "icon": "flaticon-branch",
         "text": "Set up and manage branch offices in India with our tailored services. From registration to regulatory compliance, we ensure seamless integration of your branch into the Indian market. Trust us to navigate complexities while you focus on expanding your business successfully.",
         "btnText": "Read More"
     },
@@ -165,7 +149,6 @@
         "thumbFull": "Joint Venture in India.png",
         "activeClass": "",
         "title": "Joint Venture in India",
-        "icon": "flaticon-venture",
         "text": "Establish successful joint ventures in India with our expert guidance. We assist in finding reliable partners, drafting agreements, and ensuring compliance with legal frameworks. Our end-to-end support ensures your joint venture achieves its objectives and creates lasting value for stakeholders.",
         "btnText": "Read More"
     },
@@ -175,7 +158,6 @@
         "thumbFull": "liason.jpg",
         "activeClass": "",
         "title": "Liaison Office",
-        "icon": "flaticon-liaison",
         "text": "Set up liaison offices in India with ease. Our services include documentation, regulatory approvals, and operational support to help you maintain a strategic presence in India. Trust us to handle complexities while you focus on building meaningful relationships and expanding your business globally.",
         "btnText": "Read More"
     },
@@ -185,7 +167,6 @@
         "thumbFull": "company-incopo.jpg",
         "activeClass": "",
         "title": "Incorporation of Company in India",
-        "icon": "flaticon-incorporation",
         "text": "Simplify the incorporation of your company in India with our expert assistance. From legal documentation to regulatory compliance, we provide end-to-end support to help you establish a strong business presence in India while ensuring smooth and seamless operations.",
         "btnText": "Read More"
     },
@@ -195,7 +176,6 @@
         "thumbFull": "proj.jpg",
         "activeClass": "",
         "title": "Project Office",
-        "icon": "flaticon-project",
         "text": "Set up and manage project offices in India with expert guidance. Our services include compliance with statutory requirements, obtaining approvals, and managing operations efficiently. Let us help you focus on your project goals while we handle regulatory and administrative complexities.",
         "btnText": "Read More"
     },
@@ -205,7 +185,6 @@
         "thumbFull": "ngo-near-me-6212979_1280.jpg",
         "activeClass": "",
         "title": "Setting Up NGOs",
-        "icon": "flaticon-ngo",
         "text": "Establish NGOs seamlessly with our expert services. From drafting bylaws to registering under relevant acts, we handle the entire process. We ensure compliance with regulations and provide ongoing support to help your organization achieve its mission and maximize its social impact effectively.",
         "btnText": "Read More"
     },
@@ -215,7 +194,6 @@
         "thumbFull": "Remittance of Money.jpg",
         "activeClass": "",
         "title": "Remittance of Money by NRI from India",
-        "icon": "flaticon-remittance",
         "text": "Facilitate the seamless remittance of funds by NRIs from India with our specialized services. We assist in regulatory compliance, documentation, and ensuring adherence to FEMA guidelines. Trust us to streamline the process and help you manage cross-border transactions efficiently and effectively.",
         "btnText": "Read More"
     },
@@ -225,7 +203,6 @@
         "thumbFull": "Start Up India Services.png",
         "activeClass": "",
         "title": "Start Up India Services",
-        "icon": "flaticon-startup",
         "text": "Empower your entrepreneurial journey with our Start Up India services. From company incorporation to compliance with startup regulations, we provide comprehensive support to help you launch and scale your business. Trust our experts to guide you through every step of the startup process.",
         "btnText": "Read More"
     },
@@ -235,7 +212,6 @@
         "thumbFull": "certification-0.webp",
         "activeClass": "",
         "title": "Certification and Attestation",
-        "icon": "flaticon-certification",
         "text": "Obtain accurate certifications and attestations with our expert services. We assist in document validation for regulatory, statutory, and legal purposes, ensuring compliance with applicable guidelines. Trust us to provide reliable and efficient support for all your certification and attestation requirements effectively.",
         "btnText": "Read More"
     },
@@ -245,7 +221,6 @@
         "thumbFull": "certification-stpi.png",
         "activeClass": "",
         "title": "STPI Related Services",
-        "icon": "flaticon-stpi",
         "text": "Facilitate Software Technology Parks of India (STPI) registrations and compliance with ease. Our services include documentation, obtaining approvals, and ensuring regulatory adherence for IT businesses. Streamline operations and focus on growth while we manage STPI-related requirements effectively and efficiently.",
         "btnText": "Read More"
     },
@@ -255,7 +230,6 @@
         "thumbFull": "sez3.png",
         "activeClass": "",
         "title": "Sez Related Services",
-        "icon": "flaticon-sez",
         "text": "Navigate the complexities of setting up and operating in Special Economic Zones (SEZ) with our expert services. From approvals to compliance management, we help businesses capitalize on SEZ benefits. Trust us to provide comprehensive support tailored to your unique operational needs.",
         "btnText": "Read More"
     },
@@ -265,38 +239,79 @@
         "thumbFull": "Registration of Section 8 Company.jpg",
         "activeClass": "",
         "title": "Registration of Societies/Trust",
-        "icon": "flaticon-registration",
         "text": "Simplify the registration of societies and trusts with our expert services. We handle the documentation, compliance requirements, and regulatory approvals to ensure smooth operations. Focus on your objectives while we manage the legal and procedural aspects effectively for you.",
         "btnText": "Read More"
     },
     {
         "id": 28,
-        "thumb": "registration-of-trademark.png",
-        "thumbFull": "registration-of-trademark.png",
+        "thumb": "GST Registration.png",
+        "thumbFull": "GST Registration.png",
         "activeClass": "",
-        "title": "Trademark Related Services",
-        "icon": "flaticon-trademark",
-        "text": "Protect your intellectual property with our trademark-related services. From registration to renewals and compliance, we handle the legalities to safeguard your brand. Trust our expertise to simplify the process and ensure your trademarks remain secure and protected at all times.",
+        "title": "GST Registration",
+        "text": "Register for GST effortlessly with our expert assistance. We ensure accurate documentation, seamless application filing, and compliance with GST laws. Trust us to simplify the registration process so you can focus on running your business without any legal hurdles.",
         "btnText": "Read More"
     },
     {
         "id": 29,
-        "thumb": "LEI-Registration.png",
-        "thumbFull": "LEI-Registration.png",
+        "thumb": "gst-filings.jpg",
+        "thumbFull": "gst-filings.jpg",
         "activeClass": "",
-        "title": "Legal Entity Identifier (LEI) Registration",
-        "icon": "flaticon-lei",
-        "text": "Ensure regulatory compliance with our Legal Entity Identifier (LEI) registration services. We assist in obtaining LEIs for businesses engaged in financial transactions, ensuring seamless operations and compliance with global standards. Trust us to simplify the process and manage your LEI needs efficiently.",
+        "title": "GST Filings",
+        "text": "Stay compliant with GST regulations through our reliable filing services. From preparing GST returns to reconciling invoices, we ensure accurate and timely submissions. Let us handle the complexities of GST filings while you focus on growing your business.",
         "btnText": "Read More"
     },
     {
         "id": 30,
-        "thumb": "GOODS AND SERVICE TAX.png",
-        "thumbFull": "GOODS AND SERVICE TAX.png",
+        "thumb": "Taxation Services.jpg",
+        "thumbFull": "Taxation Services.jpg",
         "activeClass": "",
-        "title": "Goods and Services Tax (GST)",
-        "icon": "flaticon-gst",
-        "text": "Streamline your GST compliance with our end-to-end services. From registration and filing to audits and refunds, we provide comprehensive support. Our experts ensure accurate adherence to GST regulations, helping your business stay compliant, minimize risks, and maximize tax benefits effectively and efficiently.",
+        "title": "Taxation Services",
+        "text": "Optimize your tax planning and compliance with our professional Taxation Services. We assist in income tax filing, corporate tax management, and regulatory compliance. Our customized solutions help you minimize tax liabilities while adhering to legal requirements.",
+        "btnText": "Read More"
+    },
+    {
+        "id": 31,
+        "thumb": "Audit-support.jpg",
+        "thumbFull": "Audit-support.jpg",
+        "activeClass": "",
+        "title": "Internal Audit Support",
+        "text": "Enhance your internal controls and operational efficiency with our Internal Audit Support services. We conduct detailed assessments, identify risks, and provide actionable recommendations to improve your organization’s governance and performance.",
+        "btnText": "Read More"
+    },
+    {
+        "id": 32,
+        "thumb": "payroll.jpg",
+        "thumbFull": "payroll.jpg",
+        "activeClass": "",
+        "title": "Payroll Management",
+        "text": "Streamline your payroll processes with our end-to-end Payroll Management services. From salary processing to compliance with labor laws, we ensure accurate and timely management of your employee payroll needs.",
+        "btnText": "Read More"
+    },
+    {
+        "id": 33,
+        "thumb": "international.jpg",
+        "thumbFull": "international.jpg",
+        "activeClass": "",
+        "title": "International Taxation",
+        "text": "Navigate the complexities of international taxation with our expert guidance. We assist in cross-border tax compliance, transfer pricing, and global tax planning to ensure your business operates smoothly across borders.",
+        "btnText": "Read More"
+    },
+    {
+        "id": 34,
+        "thumb": "tally.jpg",
+        "thumbFull": "tally.jpg",
+        "activeClass": "",
+        "title": "Tally Implementation & Training",
+        "text": "Leverage the power of Tally for your business with our Implementation & Training services. We provide setup, customization, and hands-on training to ensure your team uses Tally efficiently for accounting and financial management.",
+        "btnText": "Read More"
+    },
+    {
+        "id": 35,
+        "thumb": "digital-signature.jpg",
+        "thumbFull": "digital-signature.jpg",
+        "activeClass": "",
+        "title": "Digital Signature Certificate",
+        "text": "Obtain and manage Digital Signature Certificates (DSCs) with our seamless services. We assist in acquiring, renewing, and securely using DSCs for legal, statutory, and contractual purposes.",
         "btnText": "Read More"
     }
 ]
