@@ -7,7 +7,7 @@ const ContactForm = () => {
     const handleForm = (event) => {
         event.preventDefault()
         event.target.reset()
-        toast.success("Thanks For Your Message")
+        toast.success("Thank you for reaching out! We’ll get back to you shortly.")
     }
 
     return (

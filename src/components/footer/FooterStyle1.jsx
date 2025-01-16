@@ -88,7 +88,7 @@ const FooterStyle1 = ({ shape, shapeClass,  formStyle }) => {
                             </div>
                             <div className="col-lg-2 col-md-6 footer-item">
                                 <div className="f-item link">
-                                    <h4 className="widget-title">Our Services</h4>
+                                    <h4 className="widget-title">Popular Services</h4>
                                     <ul>
                                         <li>
                                             <Link href="./">Audit & Assurance</Link>
@@ -111,8 +111,11 @@ const FooterStyle1 = ({ shape, shapeClass,  formStyle }) => {
                                         <li>
                                             <Link href="./">FEMA Advisory</Link>
                                         </li>
-                                        <li>
+                                        {/* <li>
                                             <Link href="./">Corporate Law</Link>
+                                        </li> */}
+                                        <li>
+                                            <Link href="/services">Read More..</Link>
                                         </li>
                                     </ul>
                                 </div>
