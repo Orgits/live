@@ -512,19 +512,27 @@ p {
 	.container-xl,
 	.container-xxl {
 		max-width: 1250px;
+		object-fit: cover;
 	}
+}
+.col-xl-4 .col-md-6 .mb-30 {
+	width: 800px;
+	height: 600px;
+	object-fit: cover;
 }
 
 .container-full {
 	padding: 0 15px;
 	margin: auto;
 	max-width: 1400px;
+	object-fit: cover;
 }
 
 @media (min-width: 576px) {
 	.container-full {
 		max-width: 540px;
 		width: 100%;
+		object-fit: cover;
 	}
 }
 
