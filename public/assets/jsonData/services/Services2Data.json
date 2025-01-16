@@ -2,7 +2,7 @@
     {
         "id": 1,
         "thumb": "AUDIT AND ASSURANCE.png",
-        "thumbFull": "2-full.jpg",
+        "thumbFull": "AUDIT AND ASSURANCE.png",
         "activeClass": "",
         "title": "Audit & Assurance",
         "icon": "flaticon-budget",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "thumb": "reports.webp",
-        "thumbFull": "3-full.jpg",
+        "thumbFull": "reports.webp",
         "activeClass": "",
         "title": "Reports & Certification",
         "icon": "flaticon-bar-chart",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "thumb": "Accounts Outsourcing.png",
-        "thumbFull": "4-full.jpg",
+        "thumbFull": "Accounts Outsourcing.png",
         "activeClass": "",
         "title": "Outsourcing Support Service",
         "icon": "flaticon-credit-cards",
@@ -31,8 +31,8 @@
     },
     {
         "id": 4,
-        "thumb": "3.jpg",
-        "thumbFull": "3-full.jpg",
+        "thumb": "capitol2.png",
+        "thumbFull": "capitol2.png",
         "activeClass": "",
         "title": "Governance, Risk & Compliance Advisory",
         "icon": "flaticon-bar-chart",
@@ -41,8 +41,8 @@
     },
     {
         "id": 5,
-        "thumb": "3.jpg",
-        "thumbFull": "3-full.jpg",
+        "thumb": "Fema Compliances and Compounding.png",
+        "thumbFull": "Fema Compliances and Compounding.png",
         "activeClass": "",
         "title": "FEMA Advisory",
         "icon": "flaticon-bar-chart",
@@ -51,7 +51,7 @@
     },
     {
         "id": 6,
-        "thumb": "3.jpg",
+        "thumb": "corporate Law.webp",
         "thumbFull": "3-full.jpg",
         "activeClass": "",
         "title": "Corporate Law",
@@ -61,8 +61,8 @@
     },
     {
         "id": 7,
-        "thumb": "3.jpg",
-        "thumbFull": "3-full.jpg",
+        "thumb": "NRI Tax Compliance.png",
+        "thumbFull": "NRI Tax Compliance.png",
         "activeClass": "",
         "title": "NRI Tax Compliance",
         "icon": "flaticon-tax",
