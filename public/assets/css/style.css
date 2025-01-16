@@ -134,7 +134,11 @@ please dont make correction head */
 	align-items: center;
 	margin-top: 50px;
 	margin-bottom: 50px;
-}
+
+
+		
+	}
+
 
 
 
@@ -159,6 +163,8 @@ please dont make correction head */
     object-fit: cover; /* Ensures the image is cropped to fit the container while preserving its aspect ratio */
     object-position: center; /* Centers the image within the container */
     border-radius: 8px; /* Optional: Adds rounded corners to match the card's style */
+		
+		
 }
 
 .card-title {
@@ -196,7 +202,8 @@ please dont make correction head */
 	align-items: center;
 	margin-top: 30px; ;
 	margin-bottom: 30px;
-	
+	margin-left: 10px;
+	margin-right: 10px;
 	
 	
 }
