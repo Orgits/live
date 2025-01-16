@@ -5,16 +5,22 @@ import React from 'react';
 
 export const metadata = {
     title: "SJVJ & CO. - Blog Single With Sidebar"
-}
+};
 
 const BlogSingleWithSidebar = ({ params }) => {
+    const { id } = params;
+    const data = blogData.find(blog => blog.id === parseInt(id));
 
-    const { id } = params
-    const data = blogData.find(blog => blog.id === parseInt(id))
+    if (!data) {
+        return <div>Blog post not found.</div>;
+    }
 
     return (
         <>
-            <LayoutStyle7 breadCrumb="blog-single-with-sidebar" title="Blog Single With Sidebar">
+            <LayoutStyle7 
+                breadCrumb={data.title} 
+                title="Blogs"
+            >
                 <BlogSingleWithSidebarContent blogInfo={data} />
             </LayoutStyle7>
         </>
