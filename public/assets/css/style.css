@@ -126,6 +126,7 @@ please dont make correction head */
 
 /* Client Page component css Start----here */
 
+
 .container-card-ClientSection {
  	display: flex;
 	flex-direction: column;
@@ -134,6 +135,8 @@ please dont make correction head */
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
+
+
 
 .heading-card-deck {
 	text-align: center;
@@ -5042,7 +5045,7 @@ p {
 }
 
 .service-tab-navs .nav-link.active {
-	background: var(--dark);
+	background-color: #145886;
 	border-color: var(--dark) !important;
 	color: var(--white);
 }
