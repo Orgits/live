@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Keyboard, Autoplay, Pagination, EffectFade, Navigation } from "swiper/modules"; // Import Navigation module
+import { Keyboard, Autoplay, Pagination, EffectFade, Navigation } from "swiper/modules";
 import SingleBanner1 from "./SingleBanner1";
 import Banner1Data from "@/assets/jsonData/banner/Banner1Data.json";
 
@@ -11,9 +11,12 @@ const BannerStyle1 = () => {
             <div className="banner-area banner-style-one shadow navigation-custom-large zoom-effect overflow-hidden text-light">
                 <div className="banner-fade">
                     <Swiper
-                        modules={[Keyboard, Autoplay, Pagination, EffectFade, Navigation]} // Include Navigation here
+                        modules={[Keyboard, Autoplay, Pagination, EffectFade, Navigation]}
                         direction={"horizontal"}
-                        autoplay={false}
+                        autoplay={{
+                            delay: 3000,
+                            disableOnInteraction: false,
+                        }}
                         loop={true}
                         effect={"fade"}
                         fadeEffect={{
@@ -23,7 +26,7 @@ const BannerStyle1 = () => {
                             enabled: true,
                         }}
                         navigation={{
-                            nextEl: ".swiper-button-next", // Ensure these classes exist
+                            nextEl: ".swiper-button-next",
                             prevEl: ".swiper-button-prev",
                         }}
                         pagination={{
@@ -33,6 +36,7 @@ const BannerStyle1 = () => {
                     >
                         {Banner1Data.map((banner) => (
                             <SwiperSlide key={banner.id} className="banner-style-one">
+                                {/* Ensure SingleBanner1 doesn't have an overlay, or modify the styling */}
                                 <SingleBanner1 banner={banner} />
                             </SwiperSlide>
                         ))}

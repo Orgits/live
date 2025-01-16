@@ -18,9 +18,9 @@ const SingleProject1 = ({ project }) => {
                         <div className="col-lg-5 pl-0 pl-md-15 pl-xs-15 pr-md-15 pr-xs-15">
                             <div className="info">
                                 <span>{tag}</span>
-                                <h3><Link href={`/project-details/${id}`}>{title}</Link></h3>
+                                <h3><Link href={"#"}>{title}</Link></h3>
                                 <p>{text}</p>
-                                <Link className="btn-animation dark mt-10" href={`/project-details/${id}`}><i className="fas fa-arrow-right"></i> <span>{btnText}</span></Link>
+                                <Link className="btn-animation dark mt-10" href={"#"}><i className="fas fa-arrow-right"></i> <span>{btnText}</span></Link>
                             </div>
                         </div>
                     </div>

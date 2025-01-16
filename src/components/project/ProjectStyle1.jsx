@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import React from 'react';
 import { Autoplay, Keyboard, Navigation, Pagination } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -14,7 +14,7 @@ const ProjectStyle1 = () => {
                         <div className="row">
                             <div className="col-lg-5">
                                 <div className="content-left">
-                                    <h5 className="sub-heading">Building Strong Client Relationships </h5>
+                                    <h5 className="sub-heading">Building Strong Client Relationships</h5>
                                     <h2 className="heading">Driving Your Growth with Expertise and Precision.</h2>
                                 </div>
                             </div>
@@ -26,11 +26,19 @@ const ProjectStyle1 = () => {
                         <div className="col-lg-12">
                             <div className="project-style-one-carousel">
                                 <div className="swiper-wrapper">
+                                <div className="project-swiper-nav">
+                                    <div className="project-button-prev"></div>
+                                    <div className="project-button-next"></div>
+                                    <div className="project-pagination"></div>
+                                </div>
                                     <Swiper
                                         modules={[Keyboard, Autoplay, Pagination, Navigation]}
                                         freeMode={true}
                                         grabCursor={false}
-                                        autoplay={false}
+                                        autoplay={{
+                                            delay: 3000, // Slide delay in milliseconds
+                                            disableOnInteraction: false, // Keep autoplay running after user interaction
+                                        }}
                                         loop={true}
                                         keyboard={{
                                             enabled: true,
@@ -40,7 +48,7 @@ const ProjectStyle1 = () => {
                                             prevEl: '.project-button-prev',
                                         }}
                                         pagination={{
-                                            el: '.project-pagination',
+                                            el: '.project-pagination', // Ensure pagination class matches
                                             clickable: true,
                                             type: 'fraction',
                                         }}
@@ -52,11 +60,11 @@ const ProjectStyle1 = () => {
                                         )}
                                     </Swiper>
                                 </div>
-                                <div className="project-swiper-nav">
-                                    <div className="project-pagination"></div>
+                                {/* <div className="project-swiper-nav">
                                     <div className="project-button-prev"></div>
                                     <div className="project-button-next"></div>
-                                </div>
+                                    <div className="project-pagination"></div>
+                                </div> */}
                             </div>
                         </div>
                     </div>

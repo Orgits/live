@@ -358,7 +358,7 @@ hr {
 
 pre {
 	display: block;
-	margin: 0 0 30px;
+	margin: 0 0 0px;
 	padding: 9.5px;
 	word-wrap: break-word;
 	word-break: break-all;
@@ -776,8 +776,8 @@ p {
 }
 
 .default-padding {
-	padding-top: 120px;
-	padding-bottom: 120px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 @media only screen and (max-width: 767px) {
@@ -830,7 +830,7 @@ p {
 }
 
 .default-padding-bottom.bottom-less {
-	margin-bottom: -30px;
+	margin-bottom: -20px;
 }
 
 @media only screen and (max-width: 767px) {
@@ -9372,11 +9372,52 @@ footer::after {
 }
 
 /* Banner */
+
+.banner-area {
+    position: relative;
+    width: 100%;
+    height: 100vh; /* Makes the banner take up the full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.banner-fade {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* Ensure each slide takes up the full banner height */
+}
+
+@media only screen and (max-width: 768px) {
+    .banner-area {
+        width: 100%;
+        height: 100vw; /* Sets height equal to width for a square layout */
+    }
+
+    .swiper-slide {
+        height: 100%; /* Ensures the slide height matches the container */
+    }
+
+    .swiper-pagination,
+    .swiper-button-prev,
+    .swiper-button-next {
+        z-index: 10;
+    }
+}
 .banner-area.banner-solar .banner-thumb {
 	width: 45%;
 	right: 0;
 	left: auto;
 	position: absolute;
+	
+	
 }
 
 .banner-area.banner-solar {
@@ -9384,6 +9425,7 @@ footer::after {
 	background-size: 15% !important;
 	background-repeat: no-repeat !important;
 	background-position: left bottom !important;
+	object-fit: cover;
 }
 
 .banner-area.banner-area.banner-solar .swiper-slide.swiper-slide-active .button {
