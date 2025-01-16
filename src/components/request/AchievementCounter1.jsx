@@ -25,7 +25,7 @@ const AchievementCounter1 = () => {
                         </div>
                         <div className="fun-fact">
                             <div className="counter">
-                                <div className="timer"><CountUp end={10} enableScrollSpy /></div>
+                                <div className="timer"><CountUp end={30} enableScrollSpy /></div>
                                 <div className="operator">+</div>
                             </div>
                             <span className="medium">CA Services Portfolio.</span>
