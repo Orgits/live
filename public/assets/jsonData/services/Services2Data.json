@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "thumb": "AUDIT AND ASSURANCE.png",
+        "thumb": "`https://cdn.pixabay.com/photo/2018/05/18/16/25/statistics-3411473_1280.jpg`",
         "thumbFull": "3-full.jpg",
         "activeClass": "",
         "title": "Reports & Certification",
@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "thumb": "3.jpg",
+        "thumb": "`https://cdn.pixabay.com/photo/2018/05/18/16/25/statistics-3411473_1280.jpg`",
         "thumbFull": "3-full.jpg",
         "activeClass": "",
         "title": "Governance, Risk & Compliance Advisory",
