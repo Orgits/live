@@ -2,7 +2,7 @@
     {
         "id": 1,
         "activeClass": "active",
-        "memberThumb": "1.jpg",
+        "memberThumb": "team-1.png",
         "designation": "Co-Founder & Managing Partner",
         "name": "CA VINIT JAIN",
         "email": "svjassociates2017@gmail.com",
@@ -129,7 +129,7 @@
     },
     {
         "id": 3,
-        "activeClass": "",
+        "activeClass": "team2.png",
         "memberThumb": "8.jpg",
         "designation": "Active Partner",
         "name": "CA VIPUL AGGARWAL",
