@@ -2,7 +2,7 @@
     {
         "id": 1,
         "activeClass": "active",
-        "memberThumb": "7.jpg",
+        "memberThumb": "Frame 3.png",
         "designation": "Co-Founder & Managing Partner",
         "name": "CA VINIT JAIN",
         "email": "svjassociates2017@gmail.com",
@@ -66,7 +66,7 @@
     {
         "id": 2,
         "activeClass": "",
-        "memberThumb": "2.jpg",
+        "memberThumb": "Frame 2.png",
         "designation": "Co-Founder and Active Partner",
         "name": "CA SHWETA JAIN",
         "email": "svjassociates2017@gmail.com",
@@ -129,8 +129,8 @@
     },
     {
         "id": 3,
-        "activeClass": "7.jpg",
-        "memberThumb": "8.jpg",
+        "activeClass": "",
+        "memberThumb": "Frame 4.png",
         "designation": "Active Partner",
         "name": "CA VIPUL AGGARWAL",
         "email": "vipulaggarwal@sjvj.in",
@@ -194,7 +194,7 @@
     {
         "id": 4,
         "activeClass": "",
-        "memberThumb": "4.jpg",
+        "memberThumb": "Frame 5.png",
         "designation": "N/A",
         "name": "N/A",
         "email": "N/A",
