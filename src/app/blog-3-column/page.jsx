@@ -9,7 +9,7 @@ export const metadata = {
 const Blog3Column = () => {
     return (
         <>
-            <LayoutStyle7 breadCrumb="blog-3-column" title="Blog 3 Column">
+            <LayoutStyle7 breadCrumb="blogs" title="Blog 3 Column">
                 <Blog3ColumnContent />
             </LayoutStyle7>
         </>
