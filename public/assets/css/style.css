@@ -5045,8 +5045,8 @@ p {
 }
 
 .service-tab-navs .nav-link.active {
-	background-color: #145886;
-	border-color: var(--dark) !important;
+	background: #145886;
+	border-color: #55B848 !important;
 	color: var(--white);
 }
 
