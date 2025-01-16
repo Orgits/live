@@ -23,7 +23,7 @@ const Service2Page = () => {
                 {/* <PartnerStyle1 sectionClass="default-padding bg-gray" /> */}
                 <TeamStyle1 teamTitle={true} />
                 <RequestCallStyle1 />
-                <TestimonialStyle1 />
+                {/* <TestimonialStyle1 /> */}
                 <BlogStyle1 sectionClass="bg-gray" />
             </LayoutStyle7>
         </>

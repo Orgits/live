@@ -15,7 +15,7 @@ const client = () => {
             <LayoutStyle7 breadCrumb="Client" title="Client">
             <ClientSection />
             <TeamStyle1 sectionClass="bg-gray" teamTitle={true} />
-                <TestimonialStyle1 />
+                {/* <TestimonialStyle1 /> */}
                 <BlogStyle1 sectionClass="bg-gray" />
             </LayoutStyle7>
         </>
