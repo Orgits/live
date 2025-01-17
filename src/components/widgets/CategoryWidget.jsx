@@ -9,12 +9,12 @@ const CategoryWidget = () => {
                 <h4 className="title">category list</h4>
                 <div className="sidebar-info">
                     <ul>
-                        <li>
+                        {/* <li>
                             <Link href="#" onClick={handleSmoothScroll}>national <span>69</span></Link>
                         </li>
                         <li>
                             <Link href="#" onClick={handleSmoothScroll}>national <span>25</span></Link>
-                        </li>
+                        </li> */}
                         <li>
                             <Link href="#" onClick={handleSmoothScroll}>sports <span>18</span></Link>
                         </li>
