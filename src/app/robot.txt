@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+
+# Allow all crawlers to access the site
+Allow: /
+
+# Specify the sitemap location
+Sitemap: https://sjvj.in/sitemap.xml
