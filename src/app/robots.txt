@@ -1,8 +1,4 @@
 User-agent: *
 Disallow:
 
-
-Allow: /
-
-
 Sitemap: https://sjvj.in/sitemap.xml
