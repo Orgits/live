@@ -30,11 +30,11 @@ const TeamDetailsContent = ({ teamInfo }) => {
                                     </li>
                                     <li>
                                         <strong>Phone:</strong>
-                                        <a href="tel:123-456-7890">+91 99996 67121</a>
+                                        <a href="tel:919999667121">+91 99996 67121</a>
                                     </li>
                                 </ul>
                                 <div className="social">
-                                    <a className="btn circle btn-sm btn-dark animation" href="#">Contact Me</a>
+                                    <a className="btn circle btn-sm btn-dark animation" href="tel:+919999667121">Contact Me</a>
                                     <div className="share-link">
                                         <i className="fas fa-share-alt"></i>
                                         <ul>
