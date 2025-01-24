@@ -34,17 +34,44 @@ const Home1 = () => {
         <>
             <Head>
                 <title>{metadata.title}</title>
-                <meta name="description" content={metadata.description} />
-                <meta name="keywords" content={metadata.keywords} />
-                <meta name="author" content={metadata.author} />
-                <meta name="viewport" content={metadata.viewport} />
-                <meta name="robots" content={metadata.robots} />
+                <meta
+                    name="description"
+                    content="Welcome to SJVJ & COMPANY, the leading accounting firm in India. Explore our expert services in accounting, tax planning, financial advisory, and more. Our experienced team is dedicated to providing top-notch solutions tailored to your business needs."
+                />
+                <meta
+                    name="keywords"
+                    content="SJVJ & COMPANY, Accounting Firm India, Best Accounting Services, Tax Planning, Financial Advisory, Business Solutions, Top Accounting Firms, Professional Accounting Team, India Accounting Experts"
+                />
+                <meta
+                    name="author"
+                    content="SJVJ & COMPANY"
+                />
+                <meta
+                    name="viewport"
+                    content="width=device-width, initial-scale=1.0"
+                />
+                <meta
+                    name="robots"
+                    content="index, follow"
+                />
 
-                <meta property="og:title" content={metadata.og.title} />
-                <meta property="og:description" content={metadata.og.description} />
-                <meta property="og:image" content={metadata.og.image} />
-                <meta property="og:url" content={metadata.og.url} />
-                <meta property="og:type" content={metadata.og.type} />
+                <meta
+                    property="og:title"
+                    content="SJVJ & COMPANY - Best Accounting Firm in India"
+                />
+                <meta
+                    property="og:description"
+                    content="Welcome to SJVJ & COMPANY, the leading accounting firm in India. Explore our expert services in accounting, tax planning, financial advisory, and more."
+                />
+               
+                <meta
+                    property="og:url"
+                    content="https://sjvj.in"
+                />
+                <meta
+                    property="og:type"
+                    content="website"
+                />
             </Head>
 
             <LayoutStyle7>
