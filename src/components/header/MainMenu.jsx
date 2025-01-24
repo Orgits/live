@@ -28,6 +28,7 @@ const MainMenu = ({ toggleSubMenu, navbarPlacement }) => {
                         <li><Link href="/services-details/5">FEMA Advisory</Link></li>
                         <li><Link href="/services-details/6">Corporate Law</Link></li>
                         <li><Link href="/services-details/28"> Trademark Related Services</Link></li>
+                        <li><Link href="/services"> All Services</Link></li>
                     </ul>
               </li> 
                 <li className="dropdown">
